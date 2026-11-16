@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "İletişim",
+    "en": "Contact",
+    "ar": "تواصل"
+  },
+  "status": "play",
+  "category": "",
+  "id": "iletisim",
+  "url": "",
+  "path": "iletisim",
+  "index": 5,
+  "icon": "call",
+  "desing": {
+    "header": [],
+    "body": [
+      "bjygdr",
+      "k8mp01"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Adres, saatler ve gizlilik odaklı mesaj formu.",
+    "en": "Address, hours and a privacy-focused message form.",
+    "ar": "العنوان والساعات ونموذج رسالة يركّز على الخصوصية."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "İletişim",
+    "en": "Contact",
+    "ar": "تواصل"
+  },
+  "keyword": {
+    "tr": "iletişim",
+    "en": "contact",
+    "ar": "اتصال"
+  },
+  "text": {},
+  "update": "2026-11-16T18:09:14.872Z",
+  "date": "2026-10-30"
+}

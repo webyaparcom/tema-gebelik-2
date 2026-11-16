@@ -1,0 +1,39 @@
+{
+  "id": "j1y1z05iit",
+  "name": {
+    "tr": "Randevu",
+    "en": "Booking",
+    "ar": "الحجز"
+  },
+  "description": {
+    "tr": "Yüz yüze, görüntülü ya da telefonla ön görüşme talebi (demo).",
+    "en": "First talk request in person, by video or by phone (demo).",
+    "ar": "طلب لقاء أول حضوريًا أو بالفيديو أو بالهاتف (تجريبي)."
+  },
+  "keyword": {
+    "tr": "randevu",
+    "en": "appointment",
+    "ar": "موعد"
+  },
+  "path": "teklif-al",
+  "icon": "event",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "1wfgrn"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Randevu",
+    "en": "Booking",
+    "ar": "الحجز"
+  },
+  "date": "2026-11-16T18:02:49.745Z",
+  "update": "2026-11-16T18:09:14.868Z"
+}

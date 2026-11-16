@@ -1,0 +1,29 @@
+{
+  "name": "Kumsal Gebe Okulu",
+  "short_name": "Kumsal Gebe",
+  "description": "Kumsal Gebe Okulu: Eskişehir’de ebe liderliğinde doğuma hazırlık grupları, emzirme ve bebek bakımı oturumları; yüz yüze ya da görüntülü ön görüşme. Demo site; içerik kurgusaldır.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8059B0",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

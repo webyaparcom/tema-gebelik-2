@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "id": "la9q84jafh",
+      "name": {
+        "tr": "Kurslar",
+        "en": "Classes",
+        "ar": "الدورات"
+      },
+      "description": {
+        "tr": "Haftalara hizalı kurs takvimi ve ilkelerimiz.",
+        "en": "Class calendar aligned to the weeks, and our principles.",
+        "ar": "جدول الدورات حسب الأسابيع ومبادئنا."
+      },
+      "path": "hizmetler",
+      "icon": "work",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "t3znfq",
+          "fwzwzi",
+          "9lkppr"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "0tfn3z",
+          "fwzwzi",
+          "9lkppr"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Okulun ritmi ve ilkeleri (kurgusal).",
+        "en": "The school’s rhythm and principles (fictional).",
+        "ar": "إيقاع المدرسة ومبادئها (افتراضي)."
+      }
+    },
+    {
+      "id": "0hiz5kjvy8",
+      "name": {
+        "tr": "Ebeler",
+        "en": "Midwives",
+        "ar": "القابلات"
+      },
+      "description": {
+        "tr": "Kurgusal ebe ve eğitmen kadrosu.",
+        "en": "Fictional midwives and teaching team.",
+        "ar": "فريق افتراضي من القابلات والمدرّبين."
+      },
+      "path": "ekip",
+      "icon": "groups",
+      "category": "hakkimizda",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "fxy5ez",
+          "9lkppr"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "9zhrlqb9si",
+      "name": {
+        "tr": "Sorular",
+        "en": "Questions",
+        "ar": "الأسئلة"
+      },
+      "description": {
+        "tr": "Merak edilenler ve kısa yanıtlar.",
+        "en": "Common questions and short answers.",
+        "ar": "أسئلة متكررة وإجابات موجزة."
+      },
+      "path": "sorular",
+      "icon": "help",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "qu2cy6",
+          "9lkppr"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "j1y1z05iit",
+      "name": {
+        "tr": "Randevu",
+        "en": "Booking",
+        "ar": "الحجز"
+      },
+      "description": {
+        "tr": "Yüz yüze, görüntülü ya da telefonla ön görüşme talebi (demo).",
+        "en": "First talk request in person, by video or by phone (demo).",
+        "ar": "طلب لقاء أول حضوريًا أو بالفيديو أو بالهاتف (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "event",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "1wfgrn"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "تواصل"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 5,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "bjygdr",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, saatler ve gizlilik odaklı mesaj formu.",
+        "en": "Address, hours and a privacy-focused message form.",
+        "ar": "العنوان والساعات ونموذج رسالة يركّز على الخصوصية."
+      }
+    }
+  ],
+  "desc": []
+}
