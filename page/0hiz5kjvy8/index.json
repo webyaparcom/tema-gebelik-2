@@ -1,0 +1,40 @@
+{
+  "id": "0hiz5kjvy8",
+  "name": {
+    "tr": "Ebeler",
+    "en": "Midwives",
+    "ar": "القابلات"
+  },
+  "description": {
+    "tr": "Kurgusal ebe ve eğitmen kadrosu.",
+    "en": "Fictional midwives and teaching team.",
+    "ar": "فريق افتراضي من القابلات والمدرّبين."
+  },
+  "keyword": {
+    "tr": "ekip, kadro",
+    "en": "team, staff",
+    "ar": "فريق، طاقم"
+  },
+  "path": "ekip",
+  "icon": "groups",
+  "category": "hakkimizda",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "fxy5ez",
+      "9lkppr"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Ebeler",
+    "en": "Midwives",
+    "ar": "القابلات"
+  },
+  "date": "2026-11-16T18:02:49.730Z",
+  "update": "2026-11-16T18:09:14.860Z"
+}

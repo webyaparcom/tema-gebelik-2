@@ -1,0 +1,41 @@
+{
+  "id": "la9q84jafh",
+  "name": {
+    "tr": "Kurslar",
+    "en": "Classes",
+    "ar": "الدورات"
+  },
+  "description": {
+    "tr": "Haftalara hizalı kurs takvimi ve ilkelerimiz.",
+    "en": "Class calendar aligned to the weeks, and our principles.",
+    "ar": "جدول الدورات حسب الأسابيع ومبادئنا."
+  },
+  "keyword": {
+    "tr": "Kurslar",
+    "en": "Classes",
+    "ar": "الدورات"
+  },
+  "path": "hizmetler",
+  "icon": "work",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "t3znfq",
+      "fwzwzi",
+      "9lkppr"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Kurslar",
+    "en": "Classes",
+    "ar": "الدورات"
+  },
+  "date": "2026-11-16T18:02:49.717Z",
+  "update": "2026-11-16T18:09:14.848Z"
+}

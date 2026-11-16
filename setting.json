@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Kumsal Gebe Okulu: Eskişehir’de ebe liderliğinde doğuma hazırlık grupları, emzirme ve bebek bakımı oturumları; yüz yüze ya da görüntülü ön görüşme. Demo site; içerik kurgusaldır.",
+    "en": "Kumsal Prenatal School: midwife-led birth preparation groups, breastfeeding and baby care sessions in Eskisehir; first consultation in person or by video. Demo site; content is fictional.",
+    "ar": "مدرسة كومسال للحوامل: مجموعات تحضير للولادة بقيادة القابلات وجلسات للرضاعة ورعاية الرضيع في إسكي شهير؛ لقاء أول حضوري أو بالفيديو. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "gebe okulu, doğuma hazırlık, ebe, emzirme danışmanlığı, bebek bakımı, Eskişehir",
+    "en": "prenatal school, birth preparation, midwife, breastfeeding support, baby care, Eskisehir",
+    "ar": "مدرسة الحوامل، التحضير للولادة، قابلة، دعم الرضاعة، رعاية الرضيع، إسكي شهير"
+  },
+  "category": "Kurumsal",
+  "name": "Kumsal Gebe Okulu",
+  "domain": "gebelik-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "source-sans-3",
+    "heading": "fraunces",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#8059B0",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "11px",
+    "--mx-radius-md": "18px",
+    "--mx-radius-lg": "25px",
+    "--mx-radius-xl": "34px"
+  },
+  "icon": "icon.png"
+}
