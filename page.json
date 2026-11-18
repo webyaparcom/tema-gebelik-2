@@ -5,12 +5,16 @@
       "name": {
         "tr": "Kurslar",
         "en": "Classes",
-        "ar": "الدورات"
+        "ar": "الدورات",
+        "de": "Kurse",
+        "ru": "Курсы"
       },
       "description": {
         "tr": "Haftalara hizalı kurs takvimi ve ilkelerimiz.",
         "en": "Class calendar aligned to the weeks, and our principles.",
-        "ar": "جدول الدورات حسب الأسابيع ومبادئنا."
+        "ar": "جدول الدورات حسب الأسابيع ومبادئنا.",
+        "de": "Kurskalender nach Wochen und unsere Grundsätze.",
+        "ru": "Календарь курса по неделям и наши принципы."
       },
       "path": "hizmetler",
       "icon": "work",
@@ -31,7 +35,9 @@
       "name": {
         "tr": "Hakkımızda",
         "en": "About",
-        "ar": "من نحن"
+        "ar": "من نحن",
+        "de": "Über uns",
+        "ru": "О нас"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -53,7 +59,9 @@
       "description": {
         "tr": "Okulun ritmi ve ilkeleri (kurgusal).",
         "en": "The school’s rhythm and principles (fictional).",
-        "ar": "إيقاع المدرسة ومبادئها (افتراضي)."
+        "ar": "إيقاع المدرسة ومبادئها (افتراضي).",
+        "de": "Rhythmus und Prinzipien der Schule (fiktiv).",
+        "ru": "Ритм и принципы школы (вымышленные)."
       }
     },
     {
@@ -61,12 +69,16 @@
       "name": {
         "tr": "Ebeler",
         "en": "Midwives",
-        "ar": "القابلات"
+        "ar": "القابلات",
+        "de": "Hebammen",
+        "ru": "Акушерки"
       },
       "description": {
         "tr": "Kurgusal ebe ve eğitmen kadrosu.",
         "en": "Fictional midwives and teaching team.",
-        "ar": "فريق افتراضي من القابلات والمدرّبين."
+        "ar": "فريق افتراضي من القابلات والمدرّبين.",
+        "de": "Fiktives Team aus Hebamme und Dozenten.",
+        "ru": "Вымышленная команда акушерки и преподавателей."
       },
       "path": "ekip",
       "icon": "groups",
@@ -87,12 +99,16 @@
       "name": {
         "tr": "Sorular",
         "en": "Questions",
-        "ar": "الأسئلة"
+        "ar": "الأسئلة",
+        "de": "FAQ",
+        "ru": "FAQ"
       },
       "description": {
         "tr": "Merak edilenler ve kısa yanıtlar.",
         "en": "Common questions and short answers.",
-        "ar": "أسئلة متكررة وإجابات موجزة."
+        "ar": "أسئلة متكررة وإجابات موجزة.",
+        "de": "Was Sie wissen möchten, in kurzen Antworten.",
+        "ru": "Что интересует читателей — в коротких ответах."
       },
       "path": "sorular",
       "icon": "help",
@@ -113,12 +129,16 @@
       "name": {
         "tr": "Randevu",
         "en": "Booking",
-        "ar": "الحجز"
+        "ar": "الحجز",
+        "de": "Termin",
+        "ru": "Запись"
       },
       "description": {
         "tr": "Yüz yüze, görüntülü ya da telefonla ön görüşme talebi (demo).",
         "en": "First talk request in person, by video or by phone (demo).",
-        "ar": "طلب لقاء أول حضوريًا أو بالفيديو أو بالهاتف (تجريبي)."
+        "ar": "طلب لقاء أول حضوريًا أو بالفيديو أو بالهاتف (تجريبي).",
+        "de": "Anfrage für ein Vorgespräch persönlich, per Video oder Telefon (Demo).",
+        "ru": "Запрос на предварительную встречу лично, по видеосвязи или по телефону (демо)."
       },
       "path": "teklif-al",
       "icon": "event",
@@ -137,7 +157,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "تواصل"
+        "ar": "تواصل",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -158,7 +180,9 @@
       "description": {
         "tr": "Adres, saatler ve gizlilik odaklı mesaj formu.",
         "en": "Address, hours and a privacy-focused message form.",
-        "ar": "العنوان والساعات ونموذج رسالة يركّز على الخصوصية."
+        "ar": "العنوان والساعات ونموذج رسالة يركّز على الخصوصية.",
+        "de": "Adresse, Öffnungszeiten und ein datenschutzorientiertes Nachrichtenformular.",
+        "ru": "Адрес, часы работы и форма сообщения с акцентом на конфиденциальность."
       }
     }
   ],

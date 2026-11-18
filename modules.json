@@ -14,28 +14,38 @@
         "ariaLabel": {
           "tr": "Demo site uyarısı",
           "en": "Demo site notice",
-          "ar": "تنبيه الموقع التجريبي"
+          "ar": "تنبيه الموقع التجريبي",
+          "de": "Hinweis zur Demo-Website",
+          "ru": "Предупреждение о демонстрационном сайте"
         },
         "text": {
           "tr": "Bu bir demo sitedir — içerik kurgusaldır, ödeme alınmaz",
           "en": "This is a demo site — the content is fictional and no payment is taken",
-          "ar": "هذا موقع تجريبي — المحتوى افتراضي ولا يتم تحصيل أي مدفوعات"
+          "ar": "هذا موقع تجريبي — المحتوى افتراضي ولا يتم تحصيل أي مدفوعات",
+          "de": "Dies ist eine Demo-Website — die Inhalte sind fiktiv, es wird keine Zahlung entgegengenommen",
+          "ru": "Это демо-сайт — контент вымышленный, оплата не принимается"
         },
         "ctaText": {
           "tr": "Bu temayı iste",
           "en": "Get this theme",
-          "ar": "اطلب هذا القالب"
+          "ar": "اطلب هذا القالب",
+          "de": "Dieses Thema anfordern",
+          "ru": "Заказать эту тему"
         },
         "newTabText": {
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
-          "ar": "(يفتح في علامة تبويب جديدة)"
+          "ar": "(يفتح في علامة تبويب جديدة)",
+          "de": "(öffnet in einem neuen Tab)",
+          "ru": "(открывается в новой вкладке)"
         },
         "girisHref": "",
         "girisText": {
           "tr": "Üye Girişi",
           "en": "Login",
-          "ar": "تسجيل الدخول"
+          "ar": "تسجيل الدخول",
+          "de": "Mitglieder-Login",
+          "ru": "Вход для участников"
         },
         "hataBildir": "https://webyapar.com/api/portal/tema-hata.js"
       },
@@ -78,28 +88,38 @@
         "badge": {
           "tr": "Emlak",
           "en": "Real estate",
-          "ar": "عقارات"
+          "ar": "عقارات",
+          "de": "Immobilien",
+          "ru": "Недвижимость"
         },
         "title": {
           "tr": "Hayalinizdeki yeri birlikte bulalım",
           "en": "Let's find your dream home together",
-          "ar": "لنجد معًا المكان الذي تحلم به"
+          "ar": "لنجد معًا المكان الذي تحلم به",
+          "de": "Finden wir gemeinsam Ihren Traumort",
+          "ru": "Давайте вместе найдём место вашей мечты"
         },
         "description": {
           "tr": "Satılık ve kiralık seçkin portföy, şeffaf süreç, her ilanda yetki belgesi numarası.",
           "en": "A curated sale and rental portfolio, a transparent process, a permit number on every listing.",
-          "ar": "محفظة مختارة للبيع والإيجار وعملية شفافة ورقم ترخيص في كل إعلان."
+          "ar": "محفظة مختارة للبيع والإيجار وعملية شفافة ورقم ترخيص في كل إعلان.",
+          "de": "Ausgewählte Immobilien zum Kauf und zur Miete, transparenter Ablauf, bei jedem Inserat die Nummer der Vollmacht.",
+          "ru": "Избранный портфель недвижимости на продажу и в аренду, прозрачный процесс, номер разрешительного документа в каждом объявлении."
         },
         "btn1Text": {
           "tr": "İlanları gör",
           "en": "Browse listings",
-          "ar": "تصفح الإعلانات"
+          "ar": "تصفح الإعلانات",
+          "de": "Anzeigen durchsuchen",
+          "ru": "Просмотреть объявления"
         },
         "btn1Url": "ilanlar",
         "btn2Text": {
           "tr": "Değerleme",
           "en": "Valuation",
-          "ar": "التقييم"
+          "ar": "التقييم",
+          "de": "Bewertung",
+          "ru": "Оценка"
         },
         "btn2Url": "iletisim"
       },
@@ -129,127 +149,177 @@
         "title": {
           "tr": "Emlak İlanları",
           "en": "Property Listings",
-          "ar": "إعلانات العقارات"
+          "ar": "إعلانات العقارات",
+          "de": "Immobilienangebote",
+          "ru": "Объявления о недвижимости"
         },
         "subtitle": {
           "tr": "Satılık ve kiralık ilanları süzün, sıralayın ve karşılaştırın.",
           "en": "Filter, sort and compare properties for sale and for rent.",
-          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها."
+          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها.",
+          "de": "Objekte zum Kauf und zur Miete filtern, sortieren und vergleichen.",
+          "ru": "Фильтруйте, сортируйте и сравнивайте объекты на продажу и в аренду."
         },
         "searchLabel": {
           "tr": "İlan ara",
           "en": "Search listings",
-          "ar": "ابحث في الإعلانات"
+          "ar": "ابحث في الإعلانات",
+          "de": "Inserate suchen",
+          "ru": "Искать объявления"
         },
         "searchPlaceholder": {
           "tr": "Semt veya ilan başlığı…",
           "en": "District or listing title…",
-          "ar": "الحي أو عنوان الإعلان…"
+          "ar": "الحي أو عنوان الإعلان…",
+          "de": "Stadtteil oder Anzeigentitel…",
+          "ru": "Район или заголовок объявления…"
         },
         "dealGroupLabel": {
           "tr": "İşlem türü",
           "en": "Deal type",
-          "ar": "نوع الصفقة"
+          "ar": "نوع الصفقة",
+          "de": "Transaktionstyp",
+          "ru": "Тип сделки"
         },
         "dealAll": {
           "tr": "Tümü",
           "en": "All",
-          "ar": "الكل"
+          "ar": "الكل",
+          "de": "Alle",
+          "ru": "Все"
         },
         "dealSale": {
           "tr": "Satılık",
           "en": "For sale",
-          "ar": "للبيع"
+          "ar": "للبيع",
+          "de": "Zu verkaufen",
+          "ru": "Продам"
         },
         "dealRent": {
           "tr": "Kiralık",
           "en": "For rent",
-          "ar": "للإيجار"
+          "ar": "للإيجار",
+          "de": "Zu vermieten",
+          "ru": "Аренда"
         },
         "filtersTitle": {
           "tr": "Filtreler",
           "en": "Filters",
-          "ar": "التصفية"
+          "ar": "التصفية",
+          "de": "Filter",
+          "ru": "Фильтры"
         },
         "typeTitle": {
           "tr": "Emlak türü",
           "en": "Property type",
-          "ar": "نوع العقار"
+          "ar": "نوع العقار",
+          "de": "Eigentumsart",
+          "ru": "Тип недвижимости"
         },
         "roomsTitle": {
           "tr": "Oda sayısı",
           "en": "Rooms",
-          "ar": "عدد الغرف"
+          "ar": "عدد الغرف",
+          "de": "Zimmerzahl",
+          "ru": "Количество комнат"
         },
         "m2Title": {
           "tr": "Alan (m²)",
           "en": "Area (m²)",
-          "ar": "المساحة (م²)"
+          "ar": "المساحة (م²)",
+          "de": "Fläche (m²)",
+          "ru": "Площадь (м²)"
         },
         "priceTitle": {
           "tr": "Fiyat",
           "en": "Price",
-          "ar": "السعر"
+          "ar": "السعر",
+          "de": "Preis",
+          "ru": "Цена"
         },
         "districtTitle": {
           "tr": "Semt",
           "en": "District",
-          "ar": "الحي"
+          "ar": "الحي",
+          "de": "Stadtviertel",
+          "ru": "Район"
         },
         "districtAll": {
           "tr": "Tüm semtler",
           "en": "All districts",
-          "ar": "كل الأحياء"
+          "ar": "كل الأحياء",
+          "de": "Alle Stadtteile",
+          "ru": "Все районы"
         },
         "minLabel": {
           "tr": "En az",
           "en": "Min",
-          "ar": "الحد الأدنى"
+          "ar": "الحد الأدنى",
+          "de": "Mindestens",
+          "ru": "Минимум"
         },
         "maxLabel": {
           "tr": "En çok",
           "en": "Max",
-          "ar": "الحد الأقصى"
+          "ar": "الحد الأقصى",
+          "de": "Max",
+          "ru": "Макс"
         },
         "m2Unit": {
           "tr": "m²",
           "en": "m²",
-          "ar": "م²"
+          "ar": "م²",
+          "de": "m²",
+          "ru": "m²"
         },
         "sortLabel": {
           "tr": "Sırala",
           "en": "Sort by",
-          "ar": "ترتيب حسب"
+          "ar": "ترتيب حسب",
+          "de": "Sortieren",
+          "ru": "Сортировать"
         },
         "sortDate": {
           "tr": "En yeni",
           "en": "Newest",
-          "ar": "الأحدث"
+          "ar": "الأحدث",
+          "de": "Neueste",
+          "ru": "Самые новые"
         },
         "sortPrice": {
           "tr": "Fiyat: düşükten yükseğe",
           "en": "Price: low to high",
-          "ar": "السعر: من الأقل إلى الأعلى"
+          "ar": "السعر: من الأقل إلى الأعلى",
+          "de": "Preis: aufsteigend",
+          "ru": "Цена: по возрастанию"
         },
         "sortPriceDesc": {
           "tr": "Fiyat: yüksekten düşüğe",
           "en": "Price: high to low",
-          "ar": "السعر: من الأعلى إلى الأقل"
+          "ar": "السعر: من الأعلى إلى الأقل",
+          "de": "Preis: absteigend",
+          "ru": "Цена: по убыванию"
         },
         "sortM2": {
           "tr": "Alan: büyükten küçüğe",
           "en": "Area: large to small",
-          "ar": "المساحة: من الأكبر إلى الأصغر"
+          "ar": "المساحة: من الأكبر إلى الأصغر",
+          "de": "Fläche: von groß nach klein",
+          "ru": "Площадь: от большой к малой"
         },
         "sortM2Asc": {
           "tr": "Alan: küçükten büyüğe",
           "en": "Area: small to large",
-          "ar": "المساحة: من الأصغر إلى الأكبر"
+          "ar": "المساحة: من الأصغر إلى الأكبر",
+          "de": "Fläche: von klein nach groß",
+          "ru": "Площадь: от меньшей к большей"
         },
         "resetFilters": {
           "tr": "Filtreleri temizle",
           "en": "Clear filters",
-          "ar": "مسح عوامل التصفية"
+          "ar": "مسح عوامل التصفية",
+          "de": "Filter zurücksetzen",
+          "ru": "Сбросить фильтры"
         },
         "resultCount": {
           "tr": {
@@ -289,62 +359,86 @@
         "noResultTitle": {
           "tr": "Sonuç bulunamadı",
           "en": "No results found",
-          "ar": "لم يتم العثور على نتائج"
+          "ar": "لم يتم العثور على نتائج",
+          "de": "Keine Ergebnisse gefunden",
+          "ru": "Ничего не найдено"
         },
         "noResultText": {
           "tr": "Filtreleri gevşetmeyi veya temizlemeyi deneyin.",
           "en": "Try loosening or clearing your filters.",
-          "ar": "جرّب تخفيف عوامل التصفية أو مسحها."
+          "ar": "جرّب تخفيف عوامل التصفية أو مسحها.",
+          "de": "Versuchen Sie, die Filter zu lockern oder zurückzusetzen.",
+          "ru": "Попробуйте ослабить или сбросить фильтры."
         },
         "pagesLabel": {
           "tr": "Sayfalama",
           "en": "Pagination",
-          "ar": "التنقل بين الصفحات"
+          "ar": "التنقل بين الصفحات",
+          "de": "Seitennavigation",
+          "ru": "Постраничная навигация"
         },
         "prevPage": {
           "tr": "Önceki sayfa",
           "en": "Previous page",
-          "ar": "الصفحة السابقة"
+          "ar": "الصفحة السابقة",
+          "de": "Vorherige Seite",
+          "ru": "Предыдущая страница"
         },
         "nextPage": {
           "tr": "Sonraki sayfa",
           "en": "Next page",
-          "ar": "الصفحة التالية"
+          "ar": "الصفحة التالية",
+          "de": "Nächste Seite",
+          "ru": "Следующая страница"
         },
         "pageN": {
           "tr": "Sayfa {n}",
           "en": "Page {n}",
-          "ar": "الصفحة {n}"
+          "ar": "الصفحة {n}",
+          "de": "Seite {n}",
+          "ru": "Страница {n}"
         },
         "permitLabel": {
           "tr": "Yetki belgesi no",
           "en": "Authorization certificate no.",
-          "ar": "رقم شهادة التفويض"
+          "ar": "رقم شهادة التفويض",
+          "de": "Zulassungsnummer",
+          "ru": "Номер разрешительного документа"
         },
         "permitDemo": {
           "tr": "Yetki belgesi no: örnek ilan (DEMO)",
           "en": "Authorization no.: sample listing (DEMO)",
-          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)"
+          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)",
+          "de": "Zulassungsnr.: Beispielanzeige (DEMO)",
+          "ru": "Номер разрешения: пример объявления (ДЕМО)"
         },
         "perMonth": {
           "tr": "/ ay",
           "en": "/ month",
-          "ar": "/ شهريًا"
+          "ar": "/ شهريًا",
+          "de": "/ month",
+          "ru": "/ month"
         },
         "details": {
           "tr": "İlan detayı",
           "en": "View listing",
-          "ar": "تفاصيل الإعلان"
+          "ar": "تفاصيل الإعلان",
+          "de": "Anzeigedetails",
+          "ru": "Детали объявления"
         },
         "dateLabel": {
           "tr": "İlan tarihi",
           "en": "Listed on",
-          "ar": "تاريخ الإعلان"
+          "ar": "تاريخ الإعلان",
+          "de": "Einschaltungsdatum",
+          "ru": "Дата размещения"
         },
         "demoNote": {
           "tr": "Bu sayfadaki ilanlar kurgusaldır; yetki belgesi numaraları örnektir (DEMO).",
           "en": "Listings on this page are fictional; authorization numbers are samples (DEMO).",
-          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي)."
+          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي).",
+          "de": "Die Anzeigen auf dieser Seite sind fiktiv; die Genehmigungsnummern sind Beispiele (DEMO).",
+          "ru": "Объявления на этой странице вымышлены; номера разрешений приведены в качестве примеров (DEMO)."
         }
       },
       "version": "1.0.0",
@@ -361,27 +455,37 @@
           "daire": {
             "tr": "Daire",
             "en": "Apartment",
-            "ar": "شقة"
+            "ar": "شقة",
+            "de": "Wohnung",
+            "ru": "Квартира"
           },
           "villa": {
             "tr": "Villa",
             "en": "Villa",
-            "ar": "فيلا"
+            "ar": "فيلا",
+            "de": "Villa",
+            "ru": "Villa"
           },
           "rezidans": {
             "tr": "Rezidans",
             "en": "Residence",
-            "ar": "مجمّع سكني"
+            "ar": "مجمّع سكني",
+            "de": "Residenz",
+            "ru": "Резиденция"
           },
           "arsa": {
             "tr": "Arsa",
             "en": "Land",
-            "ar": "أرض"
+            "ar": "أرض",
+            "de": "Grundstück",
+            "ru": "Участок"
           },
           "isyeri": {
             "tr": "İşyeri",
             "en": "Commercial",
-            "ar": "محل تجاري"
+            "ar": "محل تجاري",
+            "de": "Arbeitsplatz",
+            "ru": "Место работы"
           }
         },
         "listings": [
@@ -390,7 +494,9 @@
             "title": {
               "tr": "Deniz manzaralı 3+1 daire",
               "en": "3+1 apartment with sea view",
-              "ar": "شقة 3+1 بإطلالة بحرية"
+              "ar": "شقة 3+1 بإطلالة بحرية",
+              "de": "3+1-Wohnung mit Meerblick",
+              "ru": "Квартира 3+1 с видом на море"
             },
             "deal": "sale",
             "type": "daire",
@@ -401,12 +507,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Kadıköy",
               "en": "Kadikoy",
-              "ar": "قاضي كوي"
+              "ar": "قاضي كوي",
+              "de": "Kadıköy",
+              "ru": "Кадыкёй"
             },
             "img": [],
             "permitNo": "DEMO-34-0001",
@@ -415,7 +525,9 @@
             "badge": {
               "tr": "Yeni",
               "en": "New",
-              "ar": "جديد"
+              "ar": "جديد",
+              "de": "Neu",
+              "ru": "Новинка"
             }
           },
           {
@@ -423,7 +535,9 @@
             "title": {
               "tr": "Bahçe katı 2+1 kiralık daire",
               "en": "2+1 garden-floor apartment for rent",
-              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار"
+              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار",
+              "de": "2+1-Mietwohnung im Gartengeschoss",
+              "ru": "Квартира 2+1 в аренду на садовом этаже"
             },
             "deal": "rent",
             "type": "daire",
@@ -434,12 +548,16 @@
             "city": {
               "tr": "Ankara",
               "en": "Ankara",
-              "ar": "أنقرة"
+              "ar": "أنقرة",
+              "de": "Ankara",
+              "ru": "Ankara"
             },
             "district": {
               "tr": "Çankaya",
               "en": "Cankaya",
-              "ar": "تشانكايا"
+              "ar": "تشانكايا",
+              "de": "Çankaya",
+              "ru": "Чанкая"
             },
             "img": [],
             "permitNo": "DEMO-06-0002",
@@ -451,7 +569,9 @@
             "title": {
               "tr": "Havuzlu müstakil villa",
               "en": "Detached villa with pool",
-              "ar": "فيلا مستقلة مع مسبح"
+              "ar": "فيلا مستقلة مع مسبح",
+              "de": "Freistehende Villa mit Pool",
+              "ru": "Отдельно стоящая вилла с бассейном"
             },
             "deal": "sale",
             "type": "villa",
@@ -462,12 +582,16 @@
             "city": {
               "tr": "Muğla",
               "en": "Mugla",
-              "ar": "موغلا"
+              "ar": "موغلا",
+              "de": "Muğla",
+              "ru": "Мугла"
             },
             "district": {
               "tr": "Bodrum",
               "en": "Bodrum",
-              "ar": "بودروم"
+              "ar": "بودروم",
+              "de": "Bodrum",
+              "ru": "Bodrum"
             },
             "img": [],
             "permitNo": "DEMO-48-0003",
@@ -479,7 +603,9 @@
             "title": {
               "tr": "Eşyalı 1+1 kiralık daire",
               "en": "Furnished 1+1 apartment for rent",
-              "ar": "شقة 1+1 مفروشة للإيجار"
+              "ar": "شقة 1+1 مفروشة للإيجار",
+              "de": "Möblierte 1+1-Wohnung zur Miete",
+              "ru": "Меблированная квартира 1+1 в аренду"
             },
             "deal": "rent",
             "type": "daire",
@@ -490,12 +616,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Karşıyaka",
               "en": "Karsiyaka",
-              "ar": "قارشيياكا"
+              "ar": "قارشيياكا",
+              "de": "Karşıyaka",
+              "ru": "Каршияка"
             },
             "img": [],
             "permitNo": "DEMO-35-0004",
@@ -507,7 +637,9 @@
             "title": {
               "tr": "İmarlı satılık arsa",
               "en": "Zoned plot for sale",
-              "ar": "أرض مخططة للبيع"
+              "ar": "أرض مخططة للبيع",
+              "de": "Baugrundstück mit Bebauungsplan zu verkaufen",
+              "ru": "Участок под застройку на продажу"
             },
             "deal": "sale",
             "type": "arsa",
@@ -518,12 +650,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Urla",
               "en": "Urla",
-              "ar": "أورلا"
+              "ar": "أورلا",
+              "de": "Urla",
+              "ru": "Urla"
             },
             "img": [],
             "permitNo": "DEMO-35-0005",
@@ -535,7 +671,9 @@
             "title": {
               "tr": "Cadde üstü kiralık dükkân",
               "en": "Street-front shop for rent",
-              "ar": "محل على الشارع الرئيسي للإيجار"
+              "ar": "محل على الشارع الرئيسي للإيجار",
+              "de": "Ladenlokal an der Hauptstraße zu vermieten",
+              "ru": "Магазин на главной улице в аренду"
             },
             "deal": "rent",
             "type": "isyeri",
@@ -546,12 +684,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Şişli",
               "en": "Sisli",
-              "ar": "شيشلي"
+              "ar": "شيشلي",
+              "de": "Şişli",
+              "ru": "Шишли"
             },
             "img": [],
             "permitNo": "DEMO-34-0006",
@@ -563,7 +705,9 @@
             "title": {
               "tr": "Site içinde 2+1 daire",
               "en": "2+1 apartment in a gated complex",
-              "ar": "شقة 2+1 داخل مجمع سكني مسوّر"
+              "ar": "شقة 2+1 داخل مجمع سكني مسوّر",
+              "de": "2+1 Wohnung in einer Wohnanlage",
+              "ru": "Квартира 2+1 в закрытом комплексе"
             },
             "deal": "sale",
             "type": "daire",
@@ -574,12 +718,16 @@
             "city": {
               "tr": "Bursa",
               "en": "Bursa",
-              "ar": "بورصة"
+              "ar": "بورصة",
+              "de": "Bursa",
+              "ru": "Bursa"
             },
             "district": {
               "tr": "Nilüfer",
               "en": "Nilufer",
-              "ar": "نيلوفر"
+              "ar": "نيلوفر",
+              "de": "Nilüfer",
+              "ru": "Nilüfer"
             },
             "img": [],
             "permitNo": "DEMO-16-0007",
@@ -591,7 +739,9 @@
             "title": {
               "tr": "Merkezi konumda 1+1 rezidans",
               "en": "1+1 residence in a central location",
-              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي"
+              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي",
+              "de": "1+1-Residenz in zentraler Lage",
+              "ru": "Резиденция 1+1 в центральном районе"
             },
             "deal": "sale",
             "type": "rezidans",
@@ -602,12 +752,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Beşiktaş",
               "en": "Besiktas",
-              "ar": "بشيكتاش"
+              "ar": "بشيكتاش",
+              "de": "Beşiktaş",
+              "ru": "Бешикташ"
             },
             "img": [],
             "permitNo": "DEMO-34-0008",
@@ -642,7 +796,9 @@
           "label": {
             "tr": "Tamamlanan Proje",
             "en": "Completed Projects",
-            "ar": "مشروع منجز"
+            "ar": "مشروع منجز",
+            "de": "Abgeschlossene Projekte",
+            "ru": "Завершённые проекты"
           },
           "icon": "task_alt"
         },
@@ -652,7 +808,9 @@
           "label": {
             "tr": "Mutlu Müşteri",
             "en": "Happy Customers",
-            "ar": "عميل سعيد"
+            "ar": "عميل سعيد",
+            "de": "Zufriedene Kunden",
+            "ru": "Довольные клиенты"
           },
           "icon": "sentiment_satisfied"
         },
@@ -662,7 +820,9 @@
           "label": {
             "tr": "Yıllık Deneyim",
             "en": "Years of Experience",
-            "ar": "سنوات من الخبرة"
+            "ar": "سنوات من الخبرة",
+            "de": "Jahre Erfahrung",
+            "ru": "Лет опыта"
           },
           "icon": "workspace_premium"
         },
@@ -672,7 +832,9 @@
           "label": {
             "tr": "Destek",
             "en": "Support",
-            "ar": "الدعم"
+            "ar": "الدعم",
+            "de": "Support",
+            "ru": "Поддержка"
           },
           "icon": "support_agent"
         }
@@ -696,17 +858,23 @@
         "badge": {
           "tr": "Ekip",
           "en": "Team",
-          "ar": "الفريق"
+          "ar": "الفريق",
+          "de": "Team",
+          "ru": "Команда"
         },
         "title": {
           "tr": "Danışmanlarımız",
           "en": "Our advisors",
-          "ar": "مستشارونا"
+          "ar": "مستشارونا",
+          "de": "Unsere Berater",
+          "ru": "Наши консультанты"
         },
         "description": {
           "tr": "Alanında deneyimli ekibimiz projelerinize değer katmak için burada.",
           "en": "Our experienced team is here to add value to your projects.",
-          "ar": "فريقنا ذو الخبرة هنا ليضيف قيمة إلى مشاريعك."
+          "ar": "فريقنا ذو الخبرة هنا ليضيف قيمة إلى مشاريعك.",
+          "de": "Unser erfahrenes Team ist hier, um Ihren Projekten Mehrwert zu verleihen.",
+          "ru": "Наша опытная команда готова принести пользу вашим проектам."
         },
         "accentText": "#ffffff"
       },
@@ -718,12 +886,16 @@
           "role": {
             "tr": "Kurucu / CEO",
             "en": "Founder / CEO",
-            "ar": "المؤسس / الرئيس التنفيذي"
+            "ar": "المؤسس / الرئيس التنفيذي",
+            "de": "Gründer / CEO",
+            "ru": "Основатель / CEO"
           },
           "bio": {
             "tr": "10+ yıllık sektör deneyimi ile strateji ve yönetim.",
             "en": "Strategy and management with 10+ years of industry experience.",
-            "ar": "الاستراتيجية والإدارة بخبرة تتجاوز 10 سنوات في القطاع."
+            "ar": "الاستراتيجية والإدارة بخبرة تتجاوز 10 سنوات في القطاع.",
+            "de": "Strategie und Management mit über 10 Jahren Branchenerfahrung.",
+            "ru": "Стратегия и управление с опытом работы в отрасли более 10 лет."
           },
           "img": ""
         },
@@ -732,12 +904,16 @@
           "role": {
             "tr": "Tasarım Direktörü",
             "en": "Design Director",
-            "ar": "مدير التصميم"
+            "ar": "مدير التصميم",
+            "de": "Design Director",
+            "ru": "Арт-директор"
           },
           "bio": {
             "tr": "Marka kimliği ve kullanıcı deneyimi tasarımı.",
             "en": "Brand identity and user experience design.",
-            "ar": "تصميم هوية العلامة التجارية وتجربة المستخدم."
+            "ar": "تصميم هوية العلامة التجارية وتجربة المستخدم.",
+            "de": "Markenidentität und Gestaltung der Nutzererfahrung.",
+            "ru": "Фирменный стиль и дизайн пользовательского опыта."
           },
           "img": ""
         },
@@ -746,12 +922,16 @@
           "role": {
             "tr": "Yazılım Geliştirici",
             "en": "Software Developer",
-            "ar": "مطوّر برمجيات"
+            "ar": "مطوّر برمجيات",
+            "de": "Softwareentwickler",
+            "ru": "Разработчик программного обеспечения"
           },
           "bio": {
             "tr": "Modern web teknolojileri ile ölçeklenebilir çözümler.",
             "en": "Scalable solutions with modern web technologies.",
-            "ar": "حلول قابلة للتوسّع بتقنيات الويب الحديثة."
+            "ar": "حلول قابلة للتوسّع بتقنيات الويب الحديثة.",
+            "de": "Skalierbare Lösungen mit modernen Webtechnologien.",
+            "ru": "Масштабируемые решения на современных веб-технологиях."
           },
           "img": ""
         }
@@ -796,7 +976,9 @@
         "name": {
           "tr": "Bize Ulaşın",
           "en": "Contact Us",
-          "ar": "تواصل معنا"
+          "ar": "تواصل معنا",
+          "de": "Kontaktieren Sie uns",
+          "ru": "Свяжитесь с нами"
         },
         "margin": "30px 0px 30px 0px",
         "linkcolor": "var(--mx-site-primary, #2563eb)",
@@ -850,33 +1032,45 @@
         "name": {
           "tr": "Hakkımızda",
           "en": "About us",
-          "ar": "من نحن"
+          "ar": "من نحن",
+          "de": "Über uns",
+          "ru": "О нас"
         },
         "description": {
           "tr": "Bu sayfa bir tema örneğidir; içerik demo üretiminde doldurulur.",
           "en": "This page is a theme sample; its content is filled in during demo production.",
-          "ar": "هذه الصفحة نموذج للقالب؛ يُملأ محتواها عند إنتاج العرض التجريبي."
+          "ar": "هذه الصفحة نموذج للقالب؛ يُملأ محتواها عند إنتاج العرض التجريبي.",
+          "de": "Diese Seite ist ein Theme-Beispiel; der Inhalt wird bei der Demo-Erstellung befüllt.",
+          "ru": "Эта страница — пример темы; содержание заполняется при создании демо."
         },
         "name2": {
           "tr": "Vizyonumuz",
           "en": "Our Vision",
-          "ar": "رؤيتنا"
+          "ar": "رؤيتنا",
+          "de": "Unsere Vision",
+          "ru": "Наше видение"
         },
         "spot2": {
           "tr": "Sektörümüzde yenilikçi yaklaşımlarla öncü olmak.",
           "en": "To lead our industry with innovative approaches.",
-          "ar": "أن نكون روّادًا في قطاعنا بأساليب مبتكرة."
+          "ar": "أن نكون روّادًا في قطاعنا بأساليب مبتكرة.",
+          "de": "In unserer Branche mit innovativen Ansätzen führend zu sein.",
+          "ru": "Быть лидером в нашей отрасли благодаря инновационным подходам."
         },
         "icon2": "visibility",
         "name3": {
           "tr": "Misyonumuz",
           "en": "Our Mission",
-          "ar": "مهمتنا"
+          "ar": "مهمتنا",
+          "de": "Unsere Mission",
+          "ru": "Наша миссия"
         },
         "spot3": {
           "tr": "İhtiyaç duyulan çözümleri hızlı ve şeffaf sunmak.",
           "en": "Deliver needed solutions quickly and transparently.",
-          "ar": "تقديم الحلول المطلوبة بسرعة وشفافية."
+          "ar": "تقديم الحلول المطلوبة بسرعة وشفافية.",
+          "de": "Die benötigten Lösungen schnell und transparent bereitstellen.",
+          "ru": "Быстро и прозрачно предлагать необходимые решения."
         },
         "icon3": "flag",
         "img": "index.jpg",
@@ -887,7 +1081,9 @@
         "title": {
           "tr": "Kurumsal",
           "en": "Corporate",
-          "ar": "المؤسسة"
+          "ar": "المؤسسة",
+          "de": "Über uns",
+          "ru": "О нас"
         },
         "stil": ""
       },
@@ -917,127 +1113,177 @@
         "title": {
           "tr": "Emlak İlanları",
           "en": "Property Listings",
-          "ar": "إعلانات العقارات"
+          "ar": "إعلانات العقارات",
+          "de": "Immobilienangebote",
+          "ru": "Объявления о недвижимости"
         },
         "subtitle": {
           "tr": "Satılık ve kiralık ilanları süzün, sıralayın ve karşılaştırın.",
           "en": "Filter, sort and compare properties for sale and for rent.",
-          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها."
+          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها.",
+          "de": "Objekte zum Kauf und zur Miete filtern, sortieren und vergleichen.",
+          "ru": "Фильтруйте, сортируйте и сравнивайте объекты на продажу и в аренду."
         },
         "searchLabel": {
           "tr": "İlan ara",
           "en": "Search listings",
-          "ar": "ابحث في الإعلانات"
+          "ar": "ابحث في الإعلانات",
+          "de": "Inserate suchen",
+          "ru": "Искать объявления"
         },
         "searchPlaceholder": {
           "tr": "Semt veya ilan başlığı…",
           "en": "District or listing title…",
-          "ar": "الحي أو عنوان الإعلان…"
+          "ar": "الحي أو عنوان الإعلان…",
+          "de": "Stadtteil oder Anzeigentitel…",
+          "ru": "Район или заголовок объявления…"
         },
         "dealGroupLabel": {
           "tr": "İşlem türü",
           "en": "Deal type",
-          "ar": "نوع الصفقة"
+          "ar": "نوع الصفقة",
+          "de": "Transaktionstyp",
+          "ru": "Тип сделки"
         },
         "dealAll": {
           "tr": "Tümü",
           "en": "All",
-          "ar": "الكل"
+          "ar": "الكل",
+          "de": "Alle",
+          "ru": "Все"
         },
         "dealSale": {
           "tr": "Satılık",
           "en": "For sale",
-          "ar": "للبيع"
+          "ar": "للبيع",
+          "de": "Zu verkaufen",
+          "ru": "Продам"
         },
         "dealRent": {
           "tr": "Kiralık",
           "en": "For rent",
-          "ar": "للإيجار"
+          "ar": "للإيجار",
+          "de": "Zu vermieten",
+          "ru": "Аренда"
         },
         "filtersTitle": {
           "tr": "Filtreler",
           "en": "Filters",
-          "ar": "التصفية"
+          "ar": "التصفية",
+          "de": "Filter",
+          "ru": "Фильтры"
         },
         "typeTitle": {
           "tr": "Emlak türü",
           "en": "Property type",
-          "ar": "نوع العقار"
+          "ar": "نوع العقار",
+          "de": "Eigentumsart",
+          "ru": "Тип недвижимости"
         },
         "roomsTitle": {
           "tr": "Oda sayısı",
           "en": "Rooms",
-          "ar": "عدد الغرف"
+          "ar": "عدد الغرف",
+          "de": "Zimmerzahl",
+          "ru": "Количество комнат"
         },
         "m2Title": {
           "tr": "Alan (m²)",
           "en": "Area (m²)",
-          "ar": "المساحة (م²)"
+          "ar": "المساحة (م²)",
+          "de": "Fläche (m²)",
+          "ru": "Площадь (м²)"
         },
         "priceTitle": {
           "tr": "Fiyat",
           "en": "Price",
-          "ar": "السعر"
+          "ar": "السعر",
+          "de": "Preis",
+          "ru": "Цена"
         },
         "districtTitle": {
           "tr": "Semt",
           "en": "District",
-          "ar": "الحي"
+          "ar": "الحي",
+          "de": "Stadtviertel",
+          "ru": "Район"
         },
         "districtAll": {
           "tr": "Tüm semtler",
           "en": "All districts",
-          "ar": "كل الأحياء"
+          "ar": "كل الأحياء",
+          "de": "Alle Stadtteile",
+          "ru": "Все районы"
         },
         "minLabel": {
           "tr": "En az",
           "en": "Min",
-          "ar": "الحد الأدنى"
+          "ar": "الحد الأدنى",
+          "de": "Mindestens",
+          "ru": "Минимум"
         },
         "maxLabel": {
           "tr": "En çok",
           "en": "Max",
-          "ar": "الحد الأقصى"
+          "ar": "الحد الأقصى",
+          "de": "Max",
+          "ru": "Макс"
         },
         "m2Unit": {
           "tr": "m²",
           "en": "m²",
-          "ar": "م²"
+          "ar": "م²",
+          "de": "m²",
+          "ru": "m²"
         },
         "sortLabel": {
           "tr": "Sırala",
           "en": "Sort by",
-          "ar": "ترتيب حسب"
+          "ar": "ترتيب حسب",
+          "de": "Sortieren",
+          "ru": "Сортировать"
         },
         "sortDate": {
           "tr": "En yeni",
           "en": "Newest",
-          "ar": "الأحدث"
+          "ar": "الأحدث",
+          "de": "Neueste",
+          "ru": "Самые новые"
         },
         "sortPrice": {
           "tr": "Fiyat: düşükten yükseğe",
           "en": "Price: low to high",
-          "ar": "السعر: من الأقل إلى الأعلى"
+          "ar": "السعر: من الأقل إلى الأعلى",
+          "de": "Preis: aufsteigend",
+          "ru": "Цена: по возрастанию"
         },
         "sortPriceDesc": {
           "tr": "Fiyat: yüksekten düşüğe",
           "en": "Price: high to low",
-          "ar": "السعر: من الأعلى إلى الأقل"
+          "ar": "السعر: من الأعلى إلى الأقل",
+          "de": "Preis: absteigend",
+          "ru": "Цена: по убыванию"
         },
         "sortM2": {
           "tr": "Alan: büyükten küçüğe",
           "en": "Area: large to small",
-          "ar": "المساحة: من الأكبر إلى الأصغر"
+          "ar": "المساحة: من الأكبر إلى الأصغر",
+          "de": "Fläche: von groß nach klein",
+          "ru": "Площадь: от большой к малой"
         },
         "sortM2Asc": {
           "tr": "Alan: küçükten büyüğe",
           "en": "Area: small to large",
-          "ar": "المساحة: من الأصغر إلى الأكبر"
+          "ar": "المساحة: من الأصغر إلى الأكبر",
+          "de": "Fläche: von klein nach groß",
+          "ru": "Площадь: от меньшей к большей"
         },
         "resetFilters": {
           "tr": "Filtreleri temizle",
           "en": "Clear filters",
-          "ar": "مسح عوامل التصفية"
+          "ar": "مسح عوامل التصفية",
+          "de": "Filter zurücksetzen",
+          "ru": "Сбросить фильтры"
         },
         "resultCount": {
           "tr": {
@@ -1077,62 +1323,86 @@
         "noResultTitle": {
           "tr": "Sonuç bulunamadı",
           "en": "No results found",
-          "ar": "لم يتم العثور على نتائج"
+          "ar": "لم يتم العثور على نتائج",
+          "de": "Keine Ergebnisse gefunden",
+          "ru": "Ничего не найдено"
         },
         "noResultText": {
           "tr": "Filtreleri gevşetmeyi veya temizlemeyi deneyin.",
           "en": "Try loosening or clearing your filters.",
-          "ar": "جرّب تخفيف عوامل التصفية أو مسحها."
+          "ar": "جرّب تخفيف عوامل التصفية أو مسحها.",
+          "de": "Versuchen Sie, die Filter zu lockern oder zurückzusetzen.",
+          "ru": "Попробуйте ослабить или сбросить фильтры."
         },
         "pagesLabel": {
           "tr": "Sayfalama",
           "en": "Pagination",
-          "ar": "التنقل بين الصفحات"
+          "ar": "التنقل بين الصفحات",
+          "de": "Seitennavigation",
+          "ru": "Постраничная навигация"
         },
         "prevPage": {
           "tr": "Önceki sayfa",
           "en": "Previous page",
-          "ar": "الصفحة السابقة"
+          "ar": "الصفحة السابقة",
+          "de": "Vorherige Seite",
+          "ru": "Предыдущая страница"
         },
         "nextPage": {
           "tr": "Sonraki sayfa",
           "en": "Next page",
-          "ar": "الصفحة التالية"
+          "ar": "الصفحة التالية",
+          "de": "Nächste Seite",
+          "ru": "Следующая страница"
         },
         "pageN": {
           "tr": "Sayfa {n}",
           "en": "Page {n}",
-          "ar": "الصفحة {n}"
+          "ar": "الصفحة {n}",
+          "de": "Seite {n}",
+          "ru": "Страница {n}"
         },
         "permitLabel": {
           "tr": "Yetki belgesi no",
           "en": "Authorization certificate no.",
-          "ar": "رقم شهادة التفويض"
+          "ar": "رقم شهادة التفويض",
+          "de": "Zulassungsnummer",
+          "ru": "Номер разрешительного документа"
         },
         "permitDemo": {
           "tr": "Yetki belgesi no: örnek ilan (DEMO)",
           "en": "Authorization no.: sample listing (DEMO)",
-          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)"
+          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)",
+          "de": "Zulassungsnr.: Beispielanzeige (DEMO)",
+          "ru": "Номер разрешения: пример объявления (ДЕМО)"
         },
         "perMonth": {
           "tr": "/ ay",
           "en": "/ month",
-          "ar": "/ شهريًا"
+          "ar": "/ شهريًا",
+          "de": "/ month",
+          "ru": "/ month"
         },
         "details": {
           "tr": "İlan detayı",
           "en": "View listing",
-          "ar": "تفاصيل الإعلان"
+          "ar": "تفاصيل الإعلان",
+          "de": "Anzeigedetails",
+          "ru": "Детали объявления"
         },
         "dateLabel": {
           "tr": "İlan tarihi",
           "en": "Listed on",
-          "ar": "تاريخ الإعلان"
+          "ar": "تاريخ الإعلان",
+          "de": "Einschaltungsdatum",
+          "ru": "Дата размещения"
         },
         "demoNote": {
           "tr": "Bu sayfadaki ilanlar kurgusaldır; yetki belgesi numaraları örnektir (DEMO).",
           "en": "Listings on this page are fictional; authorization numbers are samples (DEMO).",
-          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي)."
+          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي).",
+          "de": "Die Anzeigen auf dieser Seite sind fiktiv; die Genehmigungsnummern sind Beispiele (DEMO).",
+          "ru": "Объявления на этой странице вымышлены; номера разрешений приведены в качестве примеров (DEMO)."
         }
       },
       "version": "1.0.0",
@@ -1149,27 +1419,37 @@
           "daire": {
             "tr": "Daire",
             "en": "Apartment",
-            "ar": "شقة"
+            "ar": "شقة",
+            "de": "Wohnung",
+            "ru": "Квартира"
           },
           "villa": {
             "tr": "Villa",
             "en": "Villa",
-            "ar": "فيلا"
+            "ar": "فيلا",
+            "de": "Villa",
+            "ru": "Villa"
           },
           "rezidans": {
             "tr": "Rezidans",
             "en": "Residence",
-            "ar": "مجمّع سكني"
+            "ar": "مجمّع سكني",
+            "de": "Residenz",
+            "ru": "Резиденция"
           },
           "arsa": {
             "tr": "Arsa",
             "en": "Land",
-            "ar": "أرض"
+            "ar": "أرض",
+            "de": "Grundstück",
+            "ru": "Участок"
           },
           "isyeri": {
             "tr": "İşyeri",
             "en": "Commercial",
-            "ar": "محل تجاري"
+            "ar": "محل تجاري",
+            "de": "Arbeitsplatz",
+            "ru": "Место работы"
           }
         },
         "listings": [
@@ -1178,7 +1458,9 @@
             "title": {
               "tr": "Deniz manzaralı 3+1 daire",
               "en": "3+1 apartment with sea view",
-              "ar": "شقة 3+1 بإطلالة بحرية"
+              "ar": "شقة 3+1 بإطلالة بحرية",
+              "de": "3+1-Wohnung mit Meerblick",
+              "ru": "Квартира 3+1 с видом на море"
             },
             "deal": "sale",
             "type": "daire",
@@ -1189,12 +1471,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Kadıköy",
               "en": "Kadikoy",
-              "ar": "قاضي كوي"
+              "ar": "قاضي كوي",
+              "de": "Kadıköy",
+              "ru": "Кадыкёй"
             },
             "img": [],
             "permitNo": "DEMO-34-0001",
@@ -1203,7 +1489,9 @@
             "badge": {
               "tr": "Yeni",
               "en": "New",
-              "ar": "جديد"
+              "ar": "جديد",
+              "de": "Neu",
+              "ru": "Новинка"
             }
           },
           {
@@ -1211,7 +1499,9 @@
             "title": {
               "tr": "Bahçe katı 2+1 kiralık daire",
               "en": "2+1 garden-floor apartment for rent",
-              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار"
+              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار",
+              "de": "2+1-Mietwohnung im Gartengeschoss",
+              "ru": "Квартира 2+1 в аренду на садовом этаже"
             },
             "deal": "rent",
             "type": "daire",
@@ -1222,12 +1512,16 @@
             "city": {
               "tr": "Ankara",
               "en": "Ankara",
-              "ar": "أنقرة"
+              "ar": "أنقرة",
+              "de": "Ankara",
+              "ru": "Ankara"
             },
             "district": {
               "tr": "Çankaya",
               "en": "Cankaya",
-              "ar": "تشانكايا"
+              "ar": "تشانكايا",
+              "de": "Çankaya",
+              "ru": "Чанкая"
             },
             "img": [],
             "permitNo": "DEMO-06-0002",
@@ -1239,7 +1533,9 @@
             "title": {
               "tr": "Havuzlu müstakil villa",
               "en": "Detached villa with pool",
-              "ar": "فيلا مستقلة مع مسبح"
+              "ar": "فيلا مستقلة مع مسبح",
+              "de": "Freistehende Villa mit Pool",
+              "ru": "Отдельно стоящая вилла с бассейном"
             },
             "deal": "sale",
             "type": "villa",
@@ -1250,12 +1546,16 @@
             "city": {
               "tr": "Muğla",
               "en": "Mugla",
-              "ar": "موغلا"
+              "ar": "موغلا",
+              "de": "Muğla",
+              "ru": "Мугла"
             },
             "district": {
               "tr": "Bodrum",
               "en": "Bodrum",
-              "ar": "بودروم"
+              "ar": "بودروم",
+              "de": "Bodrum",
+              "ru": "Bodrum"
             },
             "img": [],
             "permitNo": "DEMO-48-0003",
@@ -1267,7 +1567,9 @@
             "title": {
               "tr": "Eşyalı 1+1 kiralık daire",
               "en": "Furnished 1+1 apartment for rent",
-              "ar": "شقة 1+1 مفروشة للإيجار"
+              "ar": "شقة 1+1 مفروشة للإيجار",
+              "de": "Möblierte 1+1-Wohnung zur Miete",
+              "ru": "Меблированная квартира 1+1 в аренду"
             },
             "deal": "rent",
             "type": "daire",
@@ -1278,12 +1580,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Karşıyaka",
               "en": "Karsiyaka",
-              "ar": "قارشيياكا"
+              "ar": "قارشيياكا",
+              "de": "Karşıyaka",
+              "ru": "Каршияка"
             },
             "img": [],
             "permitNo": "DEMO-35-0004",
@@ -1295,7 +1601,9 @@
             "title": {
               "tr": "İmarlı satılık arsa",
               "en": "Zoned plot for sale",
-              "ar": "أرض مخططة للبيع"
+              "ar": "أرض مخططة للبيع",
+              "de": "Baugrundstück mit Bebauungsplan zu verkaufen",
+              "ru": "Участок под застройку на продажу"
             },
             "deal": "sale",
             "type": "arsa",
@@ -1306,12 +1614,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Urla",
               "en": "Urla",
-              "ar": "أورلا"
+              "ar": "أورلا",
+              "de": "Urla",
+              "ru": "Urla"
             },
             "img": [],
             "permitNo": "DEMO-35-0005",
@@ -1323,7 +1635,9 @@
             "title": {
               "tr": "Cadde üstü kiralık dükkân",
               "en": "Street-front shop for rent",
-              "ar": "محل على الشارع الرئيسي للإيجار"
+              "ar": "محل على الشارع الرئيسي للإيجار",
+              "de": "Ladenlokal an der Hauptstraße zu vermieten",
+              "ru": "Магазин на главной улице в аренду"
             },
             "deal": "rent",
             "type": "isyeri",
@@ -1334,12 +1648,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Şişli",
               "en": "Sisli",
-              "ar": "شيشلي"
+              "ar": "شيشلي",
+              "de": "Şişli",
+              "ru": "Шишли"
             },
             "img": [],
             "permitNo": "DEMO-34-0006",
@@ -1351,7 +1669,9 @@
             "title": {
               "tr": "Site içinde 2+1 daire",
               "en": "2+1 apartment in a gated complex",
-              "ar": "شقة 2+1 داخل مجمع سكني مسوّر"
+              "ar": "شقة 2+1 داخل مجمع سكني مسوّر",
+              "de": "2+1 Wohnung in einer Wohnanlage",
+              "ru": "Квартира 2+1 в закрытом комплексе"
             },
             "deal": "sale",
             "type": "daire",
@@ -1362,12 +1682,16 @@
             "city": {
               "tr": "Bursa",
               "en": "Bursa",
-              "ar": "بورصة"
+              "ar": "بورصة",
+              "de": "Bursa",
+              "ru": "Bursa"
             },
             "district": {
               "tr": "Nilüfer",
               "en": "Nilufer",
-              "ar": "نيلوفر"
+              "ar": "نيلوفر",
+              "de": "Nilüfer",
+              "ru": "Nilüfer"
             },
             "img": [],
             "permitNo": "DEMO-16-0007",
@@ -1379,7 +1703,9 @@
             "title": {
               "tr": "Merkezi konumda 1+1 rezidans",
               "en": "1+1 residence in a central location",
-              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي"
+              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي",
+              "de": "1+1-Residenz in zentraler Lage",
+              "ru": "Резиденция 1+1 в центральном районе"
             },
             "deal": "sale",
             "type": "rezidans",
@@ -1390,12 +1716,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Beşiktaş",
               "en": "Besiktas",
-              "ar": "بشيكتاش"
+              "ar": "بشيكتاش",
+              "de": "Beşiktaş",
+              "ru": "Бешикташ"
             },
             "img": [],
             "permitNo": "DEMO-34-0008",
@@ -1424,22 +1754,30 @@
         "text": {
           "tr": "Bu demo {brand} tarafından hazırlanmıştır —",
           "en": "This demo was prepared by {brand} —",
-          "ar": "تم إعداد هذا العرض التجريبي بواسطة {brand} —"
+          "ar": "تم إعداد هذا العرض التجريبي بواسطة {brand} —",
+          "de": "Diese Demo wurde von {brand} erstellt —",
+          "ru": "Это демо подготовлено компанией {brand} —"
         },
         "ctaText": {
           "tr": "Bu temayı iste",
           "en": "Get this theme",
-          "ar": "اطلب هذا القالب"
+          "ar": "اطلب هذا القالب",
+          "de": "Dieses Thema anfordern",
+          "ru": "Заказать эту тему"
         },
         "newTabText": {
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
-          "ar": "(يفتح في علامة تبويب جديدة)"
+          "ar": "(يفتح في علامة تبويب جديدة)",
+          "de": "(öffnet in einem neuen Tab)",
+          "ru": "(открывается в новой вкладке)"
         },
         "ariaLabel": {
           "tr": "Demo bilgisi",
           "en": "Demo credit",
-          "ar": "معلومات العرض التجريبي"
+          "ar": "معلومات العرض التجريبي",
+          "de": "Demo-Hinweis",
+          "ru": "Демо-информация"
         }
       },
       "veri": {
@@ -1479,7 +1817,9 @@
         "cta_ad": {
           "tr": "Randevu",
           "en": "Book",
-          "ar": "احجزي"
+          "ar": "احجزي",
+          "de": "Termin",
+          "ru": "Запись"
         },
         "cta_url": "teklif-al",
         "tel": "+90 222 031 44 20",
@@ -1502,7 +1842,9 @@
         "cta": {
           "tr": "Teklif al",
           "en": "Get a quote",
-          "ar": "اطلب عرض سعر"
+          "ar": "اطلب عرض سعر",
+          "de": "Angebot einholen",
+          "ru": "Получить предложение"
         }
       },
       "data": [],
@@ -1543,17 +1885,23 @@
         "ust": {
           "tr": "Gebe okulu · Eskişehir",
           "en": "Prenatal school · Eskisehir",
-          "ar": "مدرسة الحوامل · إسكي شهير"
+          "ar": "مدرسة الحوامل · إسكي شهير",
+          "de": "Schwangerschaftsschule · Eskişehir",
+          "ru": "Школа для беременных · Эскишехир"
         },
         "baslik": {
           "tr": "Doğuma birlikte, hafta hafta hazırlanalım",
           "en": "Let’s prepare for birth together, week by week",
-          "ar": "لنستعد للولادة معًا، أسبوعًا بأسبوع"
+          "ar": "لنستعد للولادة معًا، أسبوعًا بأسبوع",
+          "de": "Bereiten wir uns gemeinsam auf die Geburt vor, Woche für Woche",
+          "ru": "Давайте готовиться к родам вместе, неделя за неделей"
         },
         "metin": {
           "tr": "Ebe liderliğinde küçük gruplar: nefes, doğum evreleri, emzirme ve bebek bakımı. İlk görüşmeyi yüz yüze ya da görüntülü yapın. İçerik genel bilgilendirme amaçlıdır; hekim ve ebe muayenesinin yerine geçmez. Acil durumda 112’yi arayın.",
           "en": "Small midwife-led groups: breathing, stages of labour, breastfeeding and baby care. Have your first talk in person or by video. Content is for general information only and does not replace an examination by a doctor or midwife. In an emergency call 112.",
-          "ar": "مجموعات صغيرة بقيادة القابلات: التنفس ومراحل الولادة والرضاعة ورعاية الرضيع. أجري اللقاء الأول حضوريًا أو بالفيديو. المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112."
+          "ar": "مجموعات صغيرة بقيادة القابلات: التنفس ومراحل الولادة والرضاعة ورعاية الرضيع. أجري اللقاء الأول حضوريًا أو بالفيديو. المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112.",
+          "de": "Kleine Gruppen unter Leitung einer Hebamme: Atmung, Geburtsphasen, Stillen und Babypflege. Führen Sie das Erstgespräch persönlich oder per Video. Die Inhalte dienen der allgemeinen Information und ersetzen keine ärztliche oder hebammenseitige Untersuchung. Im Notfall rufen Sie die 112 an.",
+          "ru": "Малые группы под руководством акушерки: дыхание, периоды родов, грудное вскармливание и уход за малышом. Первую беседу проведите лично или по видеосвязи. Содержание носит общий информационный характер и не заменяет осмотр врача и акушерки. В экстренном случае звоните по номеру 112."
         },
         "img": "/img/klinik-tedavi-2.webp",
         "img2": "",
@@ -1562,18 +1910,24 @@
         "alt": {
           "tr": "Masada bir bardak su ve açık not defteri",
           "en": "A glass of water and an open notebook on a desk",
-          "ar": "كوب ماء ودفتر ملاحظات مفتوح على مكتب"
+          "ar": "كوب ماء ودفتر ملاحظات مفتوح على مكتب",
+          "de": "Ein Glas Wasser und ein aufgeschlagenes Notizbuch auf dem Tisch",
+          "ru": "Стакан воды и раскрытый блокнот на столе"
         },
         "cta_ad": {
           "tr": "Ön görüşme al",
           "en": "Book a first talk",
-          "ar": "احجزي لقاءً أول"
+          "ar": "احجزي لقاءً أول",
+          "de": "Vorgespräch vereinbaren",
+          "ru": "Записаться на предварительную беседу"
         },
         "cta_url": "teklif-al",
         "cta2_ad": {
           "tr": "Kurs takvimi",
           "en": "Class calendar",
-          "ar": "جدول الدورات"
+          "ar": "جدول الدورات",
+          "de": "Kurskalender",
+          "ru": "Календарь занятий"
         },
         "cta2_url": "hizmetler",
         "rozet_ikon": "groups",
@@ -1581,7 +1935,9 @@
         "rozet_metin": {
           "tr": "aileye kadar küçük grup",
           "en": "families at most per group",
-          "ar": "عائلة كحد أقصى في المجموعة"
+          "ar": "عائلة كحد أقصى في المجموعة",
+          "de": "kleine Gruppe bis zur Familie",
+          "ru": "небольшая группа до семьи"
         },
         "bg": "var(--mx-site-bg, #ffffff)",
         "text": "var(--mx-site-text, #111318)",
@@ -1597,12 +1953,16 @@
         "oran_metin": {
           "tr": "Aralık grubu doluluk",
           "en": "December group filled",
-          "ar": "امتلاء مجموعة ديسمبر"
+          "ar": "امتلاء مجموعة ديسمبر",
+          "de": "Auslastung der Dezembergruppe",
+          "ru": "Заполненность декабрьской группы"
         },
         "oran_alt": {
           "tr": "16 / 25 kontenjan · kurgusal",
           "en": "16 / 25 places · fictional",
-          "ar": "16 / 25 مقعدًا · افتراضي"
+          "ar": "16 / 25 مقعدًا · افتراضي",
+          "de": "16 / 25 Plätze · fiktiv",
+          "ru": "16 / 25 мест · вымышленно"
         },
         "bgcolor": "var(--mx-site-bg, #ffffff)",
         "color": "var(--mx-site-text, #111318)",
@@ -1610,28 +1970,38 @@
         "eyebrow": {
           "tr": "Gebe okulu",
           "en": "Prenatal school",
-          "ar": "مدرسة الحوامل"
+          "ar": "مدرسة الحوامل",
+          "de": "Schwangerenschule",
+          "ru": "Школа для беременных"
         },
         "title": {
           "tr": "Kumsal Gebe Okulu",
           "en": "Kumsal Prenatal School",
-          "ar": "مدرسة كومسال للحوامل"
+          "ar": "مدرسة كومسال للحوامل",
+          "de": "Kumsal Schwangerschule",
+          "ru": "Школа для беременных Kumsal"
         },
         "cta1": {
           "tr": "Randevu",
           "en": "Book",
-          "ar": "احجزي"
+          "ar": "احجزي",
+          "de": "Termin",
+          "ru": "Запись"
         },
         "cta1_url": "teklif-al",
         "cta2": {
           "tr": "Kurslar",
           "en": "Classes",
-          "ar": "الدورات"
+          "ar": "الدورات",
+          "de": "Kurse",
+          "ru": "Курсы"
         },
         "scroll_label": {
           "tr": "Aşağı kaydır",
           "en": "Scroll down",
-          "ar": "انزل للأسفل"
+          "ar": "انزل للأسفل",
+          "de": "Nach unten scrollen",
+          "ru": "Прокрутите вниз"
         }
       },
       "data": [
@@ -1640,12 +2010,16 @@
           "deger": {
             "tr": "Sal · Per",
             "en": "Tue · Thu",
-            "ar": "الثلاثاء · الخميس"
+            "ar": "الثلاثاء · الخميس",
+            "de": "Di · Do",
+            "ru": "Вт · Чт"
           },
           "metin": {
             "tr": "Akşam grubu 18:30",
             "en": "Evening group 18:30",
-            "ar": "المجموعة المسائية 18:30"
+            "ar": "المجموعة المسائية 18:30",
+            "de": "Abendgruppe 18:30",
+            "ru": "Вечерняя группа 18:30"
           }
         },
         {
@@ -1653,12 +2027,16 @@
           "deger": {
             "tr": "Görüntülü",
             "en": "Video",
-            "ar": "فيديو"
+            "ar": "فيديو",
+            "de": "Video",
+            "ru": "Видео"
           },
           "metin": {
             "tr": "Ön görüşme evden de olur",
             "en": "First talk can be from home",
-            "ar": "يمكن إجراء اللقاء الأول من المنزل"
+            "ar": "يمكن إجراء اللقاء الأول من المنزل",
+            "de": "Erstgespräch auch von zu Hause",
+            "ru": "Первая консультация возможна из дома"
           }
         },
         {
@@ -1666,12 +2044,16 @@
           "deger": {
             "tr": "Eşler",
             "en": "Partners",
-            "ar": "الشركاء"
+            "ar": "الشركاء",
+            "de": "Paare",
+            "ru": "Пары"
           },
           "metin": {
             "tr": "Her oturuma katılabilir",
             "en": "Welcome at every session",
-            "ar": "مرحّب بهم في كل جلسة"
+            "ar": "مرحّب بهم في كل جلسة",
+            "de": "Teilnahme an jeder Sitzung möglich",
+            "ru": "Можно участвовать в каждой сессии"
           }
         }
       ],
@@ -1715,17 +2097,23 @@
         "ust": {
           "tr": "Okul ritmi",
           "en": "School rhythm",
-          "ar": "إيقاع المدرسة"
+          "ar": "إيقاع المدرسة",
+          "de": "Schulrhythmus",
+          "ru": "Ритм школы"
         },
         "baslik": {
           "tr": "Bir dönemin sayıları",
           "en": "One term in numbers",
-          "ar": "فصل واحد بالأرقام"
+          "ar": "فصل واحد بالأرقام",
+          "de": "Die Zahlen eines Semesters",
+          "ru": "Цифры одного семестра"
         },
         "metin": {
           "tr": "Kurgusal demo verileri; tıbbi ölçüm değildir.",
           "en": "Fictional demo figures; these are not medical readings.",
-          "ar": "بيانات تجريبية افتراضية وليست قياسات طبية."
+          "ar": "بيانات تجريبية افتراضية وليست قياسات طبية.",
+          "de": "Fiktive Demodaten; keine medizinische Messung.",
+          "ru": "Вымышленные демо-данные; не медицинское измерение."
         },
         "bg": "var(--mx-site-text, #111318)",
         "text": "var(--mx-site-bg, #ffffff)",
@@ -1742,12 +2130,16 @@
         "title": {
           "tr": "Bir dönemin sayıları",
           "en": "One term in numbers",
-          "ar": "فصل واحد بالأرقام"
+          "ar": "فصل واحد بالأرقام",
+          "de": "Die Zahlen eines Semesters",
+          "ru": "Цифры одного семестра"
         },
         "description": {
           "tr": "Kurgusal demo içerik.",
           "en": "Fictional demo content.",
-          "ar": "محتوى تجريبي افتراضي."
+          "ar": "محتوى تجريبي افتراضي.",
+          "de": "Fiktiver Demo-Inhalt.",
+          "ru": "Вымышленное демонстрационное содержимое."
         }
       },
       "data": [
@@ -1756,17 +2148,23 @@
           "sonek": {
             "tr": " oturum",
             "en": " sessions",
-            "ar": " جلسات"
+            "ar": " جلسات",
+            "de": " Sitzung",
+            "ru": " сеансов"
           },
           "etiket": {
             "tr": "Doğuma hazırlık grubu",
             "en": "Birth preparation group",
-            "ar": "مجموعة التحضير للولادة"
+            "ar": "مجموعة التحضير للولادة",
+            "de": "Geburtsvorbereitungsgruppe",
+            "ru": "Группа подготовки к родам"
           },
           "metin": {
             "tr": "Haftada iki akşam, dört hafta.",
             "en": "Two evenings a week, four weeks.",
-            "ar": "مساءان أسبوعيًا لمدة أربعة أسابيع."
+            "ar": "مساءان أسبوعيًا لمدة أربعة أسابيع.",
+            "de": "Zwei Abende pro Woche, vier Wochen.",
+            "ru": "Два вечера в неделю, четыре недели."
           },
           "ikon": "event_repeat",
           "max": 10
@@ -1776,17 +2174,23 @@
           "sonek": {
             "tr": " aile",
             "en": " families",
-            "ar": " عائلة"
+            "ar": " عائلة",
+            "de": " Familie",
+            "ru": " семья"
           },
           "etiket": {
             "tr": "Grup üst sınırı",
             "en": "Group limit",
-            "ar": "الحد الأقصى للمجموعة"
+            "ar": "الحد الأقصى للمجموعة",
+            "de": "Gruppenobergrenze",
+            "ru": "Лимит группы"
           },
           "metin": {
             "tr": "Soru sormaya zaman kalsın.",
             "en": "So there is time for questions.",
-            "ar": "ليبقى وقت للأسئلة."
+            "ar": "ليبقى وقت للأسئلة.",
+            "de": "Lassen Sie Zeit für Fragen.",
+            "ru": "Оставьте время для вопросов."
           },
           "ikon": "groups",
           "max": 15
@@ -1796,17 +2200,23 @@
           "sonek": {
             "tr": " dk",
             "en": " min",
-            "ar": " دقيقة"
+            "ar": " دقيقة",
+            "de": " Min.",
+            "ru": " мин."
           },
           "etiket": {
             "tr": "Oturum süresi",
             "en": "Session length",
-            "ar": "مدة الجلسة"
+            "ar": "مدة الجلسة",
+            "de": "Sitzungsdauer",
+            "ru": "Длительность сессии"
           },
           "metin": {
             "tr": "Arada kısa nefes molası.",
             "en": "With a short breathing break.",
-            "ar": "مع استراحة قصيرة للتنفس."
+            "ar": "مع استراحة قصيرة للتنفس.",
+            "de": "Mit einer kurzen Atempause.",
+            "ru": "С коротким перерывом для дыхания."
           },
           "ikon": "timer",
           "max": 120
@@ -1816,17 +2226,23 @@
           "sonek": {
             "tr": " ebe",
             "en": " midwives",
-            "ar": " قابلات"
+            "ar": " قابلات",
+            "de": " Hebamme",
+            "ru": " акушерка"
           },
           "etiket": {
             "tr": "Eğitmen kadrosu",
             "en": "Teaching team",
-            "ar": "فريق التدريب"
+            "ar": "فريق التدريب",
+            "de": "Trainerteam",
+            "ru": "Состав тренеров"
           },
           "metin": {
             "tr": "Kurgusal kadro.",
             "en": "Fictional team.",
-            "ar": "فريق افتراضي."
+            "ar": "فريق افتراضي.",
+            "de": "Fiktives Team.",
+            "ru": "Вымышленная команда."
           },
           "ikon": "diversity_1",
           "max": 5
@@ -1875,17 +2291,23 @@
         "ust": {
           "tr": "İlkelerimiz",
           "en": "Our principles",
-          "ar": "مبادئنا"
+          "ar": "مبادئنا",
+          "de": "Unsere Grundsätze",
+          "ru": "Наши принципы"
         },
         "baslik": {
           "tr": "Nefes nefes, sakin bir hazırlık",
           "en": "A calm preparation, breath by breath",
-          "ar": "تحضير هادئ، نفسًا بنفس"
+          "ar": "تحضير هادئ، نفسًا بنفس",
+          "de": "Eine ruhige Vorbereitung, Atemzug für Atemzug",
+          "ru": "Спокойная подготовка, дыхание за дыханием"
         },
         "metin": {
           "tr": "Her nefeste bir ilke öne gelir; üzerine gelince döngü bekler.",
           "en": "Each breath brings a principle forward; hovering pauses the cycle.",
-          "ar": "مع كل نفس يتقدّم مبدأ؛ ويتوقف التتابع عند تمرير المؤشر."
+          "ar": "مع كل نفس يتقدّم مبدأ؛ ويتوقف التتابع عند تمرير المؤشر.",
+          "de": "Jeder Atemzug bringt ein Prinzip hervor; beim Überfahren pausiert der Zyklus.",
+          "ru": "Каждый вдох выводит на первый план один принцип; при наведении цикл ставится на паузу."
         },
         "bg": "var(--mx-site-surface, #f6f7f9)",
         "text": "var(--mx-site-text, #111318)",
@@ -1902,17 +2324,23 @@
         "badge": {
           "tr": "İlkelerimiz",
           "en": "Our principles",
-          "ar": "مبادئنا"
+          "ar": "مبادئنا",
+          "de": "Unsere Grundsätze",
+          "ru": "Наши принципы"
         },
         "title": {
           "tr": "Nefes nefes, sakin bir hazırlık",
           "en": "A calm preparation, breath by breath",
-          "ar": "تحضير هادئ، نفسًا بنفس"
+          "ar": "تحضير هادئ، نفسًا بنفس",
+          "de": "Eine ruhige Vorbereitung, Atemzug für Atemzug",
+          "ru": "Спокойная подготовка, дыхание за дыханием"
         },
         "description": {
           "tr": "Kurgusal demo içerik.",
           "en": "Fictional demo content.",
-          "ar": "محتوى تجريبي افتراضي."
+          "ar": "محتوى تجريبي افتراضي.",
+          "de": "Fiktiver Demo-Inhalt.",
+          "ru": "Вымышленное демонстрационное содержимое."
         }
       },
       "data": [
@@ -1922,12 +2350,16 @@
           "baslik": {
             "tr": "Acele yok",
             "en": "No rush",
-            "ar": "لا عجلة"
+            "ar": "لا عجلة",
+            "de": "Keine Eile",
+            "ru": "Спешить некуда"
           },
           "metin": {
             "tr": "Her oturumda soru için ayrılmış süre var.",
             "en": "Every session has time set aside for questions.",
-            "ar": "في كل جلسة وقت مخصّص للأسئلة."
+            "ar": "في كل جلسة وقت مخصّص للأسئلة.",
+            "de": "In jeder Sitzung ist Zeit für Fragen reserviert.",
+            "ru": "В каждом занятии отведено время для вопросов."
           }
         },
         {
@@ -1936,12 +2368,16 @@
           "baslik": {
             "tr": "Anlaşılır bilgi",
             "en": "Clear information",
-            "ar": "معلومات واضحة"
+            "ar": "معلومات واضحة",
+            "de": "Verständliche Information",
+            "ru": "Понятная информация"
           },
           "metin": {
             "tr": "Terimler sade dille, yazılı notla anlatılır.",
             "en": "Terms are explained in plain words with a written note.",
-            "ar": "تُشرح المصطلحات بلغة بسيطة مع ملاحظة مكتوبة."
+            "ar": "تُشرح المصطلحات بلغة بسيطة مع ملاحظة مكتوبة.",
+            "de": "Fachbegriffe werden in einfacher Sprache und mit schriftlicher Notiz erklärt.",
+            "ru": "Термины объясняются простым языком и с письменной заметкой."
           }
         },
         {
@@ -1950,12 +2386,16 @@
           "baslik": {
             "tr": "Eşler de içeride",
             "en": "Partners included",
-            "ar": "الشركاء معنا"
+            "ar": "الشركاء معنا",
+            "de": "Auch die Partner sind drinnen",
+            "ru": "Партнёры тоже внутри"
           },
           "metin": {
             "tr": "Destek kişisi her oturuma katılabilir.",
             "en": "A support person can join every session.",
-            "ar": "يمكن لشخص الدعم حضور كل جلسة."
+            "ar": "يمكن لشخص الدعم حضور كل جلسة.",
+            "de": "Eine Begleitperson kann an jeder Sitzung teilnehmen.",
+            "ru": "Человек поддержки может присутствовать на любой сессии."
           }
         },
         {
@@ -1964,12 +2404,16 @@
           "baslik": {
             "tr": "Hekiminizle uyum",
             "en": "In step with your doctor",
-            "ar": "بالتنسيق مع طبيبك"
+            "ar": "بالتنسيق مع طبيبك",
+            "de": "In Einklang mit Ihrem Arzt",
+            "ru": "В согласии с вашим врачом"
           },
           "metin": {
             "tr": "Okul bilgi verir; takip ve karar hekiminizdedir.",
             "en": "The school informs; follow-up and decisions stay with your doctor.",
-            "ar": "المدرسة تقدّم المعلومات؛ والمتابعة والقرار لطبيبك."
+            "ar": "المدرسة تقدّم المعلومات؛ والمتابعة والقرار لطبيبك.",
+            "de": "Die Schule informiert; Nachverfolgung und Entscheidungen liegen bei Ihrem Arzt.",
+            "ru": "Школа информирует; наблюдение и решения остаются за вашим врачом."
           }
         },
         {
@@ -1978,12 +2422,16 @@
           "baslik": {
             "tr": "Mahremiyet",
             "en": "Privacy",
-            "ar": "الخصوصية"
+            "ar": "الخصوصية",
+            "de": "Privatsphäre",
+            "ru": "Приватность"
           },
           "metin": {
             "tr": "Grupta kişisel sağlık bilgisi paylaşmak zorunlu değildir.",
             "en": "Sharing personal health details in the group is never required.",
-            "ar": "لا يلزم مشاركة أي معلومات صحية شخصية داخل المجموعة."
+            "ar": "لا يلزم مشاركة أي معلومات صحية شخصية داخل المجموعة.",
+            "de": "Das Teilen persönlicher Gesundheitsdaten in der Gruppe ist nicht erforderlich.",
+            "ru": "Обмен личной информацией о здоровье в группе не обязателен."
           }
         }
       ],
@@ -2028,17 +2476,23 @@
         "ust": {
           "tr": "Ebeler",
           "en": "Midwives",
-          "ar": "القابلات"
+          "ar": "القابلات",
+          "de": "Hebammen",
+          "ru": "Акушерки"
         },
         "baslik": {
           "tr": "Sizi karşılayan ekip",
           "en": "The team who welcomes you",
-          "ar": "الفريق الذي يستقبلك"
+          "ar": "الفريق الذي يستقبلك",
+          "de": "Das Team, das Sie begrüßt",
+          "ru": "Команда, которая вас встречает"
         },
         "metin": {
           "tr": "Kartları çevirin; kurgusal profiller, portre kullanılmaz.",
           "en": "Flip through the cards; fictional profiles, no portraits are used.",
-          "ar": "تصفّحي البطاقات؛ ملفات افتراضية ولا تُستخدم صور شخصية."
+          "ar": "تصفّحي البطاقات؛ ملفات افتراضية ولا تُستخدم صور شخصية.",
+          "de": "Drehen Sie die Karten um; fiktive Profile, es werden keine Porträts verwendet.",
+          "ru": "Переворачивайте карточки; вымышленные профили, портреты не используются."
         },
         "bg": "var(--mx-site-surface, #f6f7f9)",
         "text": "var(--mx-site-text, #111318)",
@@ -2055,17 +2509,23 @@
         "badge": {
           "tr": "Ebeler",
           "en": "Midwives",
-          "ar": "القابلات"
+          "ar": "القابلات",
+          "de": "Hebammen",
+          "ru": "Акушерки"
         },
         "title": {
           "tr": "Sizi karşılayan ekip",
           "en": "The team who welcomes you",
-          "ar": "الفريق الذي يستقبلك"
+          "ar": "الفريق الذي يستقبلك",
+          "de": "Das Team, das Sie begrüßt",
+          "ru": "Команда, которая вас встречает"
         },
         "description": {
           "tr": "Kurgusal demo içerik.",
           "en": "Fictional demo content.",
-          "ar": "محتوى تجريبي افتراضي."
+          "ar": "محتوى تجريبي افتراضي.",
+          "de": "Fiktiver Demo-Inhalt.",
+          "ru": "Вымышленное демонстрационное содержимое."
         }
       },
       "data": [
@@ -2074,17 +2534,23 @@
           "unvan": {
             "tr": "Ebe · grup sorumlusu",
             "en": "Midwife · group lead",
-            "ar": "قابلة · مسؤولة المجموعات"
+            "ar": "قابلة · مسؤولة المجموعات",
+            "de": "Hebamme · Gruppenleitung",
+            "ru": "Акушерка · руководитель группы"
           },
           "bolum": {
             "tr": "Doğuma hazırlık",
             "en": "Birth preparation",
-            "ar": "التحضير للولادة"
+            "ar": "التحضير للولادة",
+            "de": "Geburtsvorbereitung",
+            "ru": "Подготовка к родам"
           },
           "metin": {
             "tr": "Akşam gruplarını ve ön görüşmeleri yürütür (kurgusal profil).",
             "en": "Runs the evening groups and first talks (fictional profile).",
-            "ar": "تدير المجموعات المسائية واللقاءات الأولى (ملف افتراضي)."
+            "ar": "تدير المجموعات المسائية واللقاءات الأولى (ملف افتراضي).",
+            "de": "Leitet die Abendgruppen und Erstgespräche (fiktives Profil).",
+            "ru": "Ведёт вечерние группы и первичные консультации (вымышленный профиль)."
           }
         },
         {
@@ -2092,17 +2558,23 @@
           "unvan": {
             "tr": "Ebe · emzirme danışmanı",
             "en": "Midwife · breastfeeding adviser",
-            "ar": "قابلة · مستشارة رضاعة"
+            "ar": "قابلة · مستشارة رضاعة",
+            "de": "Hebamme · Stillberaterin",
+            "ru": "Акушерка · консультант по грудному вскармливанию"
           },
           "bolum": {
             "tr": "Emzirme",
             "en": "Breastfeeding",
-            "ar": "الرضاعة"
+            "ar": "الرضاعة",
+            "de": "Stillen",
+            "ru": "Грудное вскармливание"
           },
           "metin": {
             "tr": "Emzirme ve ilk haftalar oturumları (kurgusal profil).",
             "en": "Breastfeeding and first-weeks sessions (fictional profile).",
-            "ar": "جلسات الرضاعة والأسابيع الأولى (ملف افتراضي)."
+            "ar": "جلسات الرضاعة والأسابيع الأولى (ملف افتراضي).",
+            "de": "Stillberatung und Sitzungen für die ersten Wochen (fiktives Profil).",
+            "ru": "Сеансы по грудному вскармливанию и первым неделям (вымышленный профиль)."
           }
         },
         {
@@ -2110,17 +2582,23 @@
           "unvan": {
             "tr": "Fizyoterapist",
             "en": "Physiotherapist",
-            "ar": "أخصائية علاج طبيعي"
+            "ar": "أخصائية علاج طبيعي",
+            "de": "Physiotherapeut/in",
+            "ru": "Физиотерапевт"
           },
           "bolum": {
             "tr": "Nefes ve hareket",
             "en": "Breathing and movement",
-            "ar": "التنفس والحركة"
+            "ar": "التنفس والحركة",
+            "de": "Atem und Bewegung",
+            "ru": "Дыхание и движение"
           },
           "metin": {
             "tr": "Hekim onayıyla hafif hareket ve nefes çalışması (kurgusal profil).",
             "en": "Gentle movement and breathing with your doctor’s approval (fictional profile).",
-            "ar": "حركة خفيفة وتمارين تنفس بموافقة الطبيب (ملف افتراضي)."
+            "ar": "حركة خفيفة وتمارين تنفس بموافقة الطبيب (ملف افتراضي).",
+            "de": "Leichte Bewegung und Atemübungen mit ärztlicher Freigabe (fiktives Profil).",
+            "ru": "Лёгкие движения и дыхательные упражнения с одобрения врача (вымышленный профиль)."
           }
         },
         {
@@ -2128,17 +2606,23 @@
           "unvan": {
             "tr": "Ebe · baba grupları",
             "en": "Midwife · partner groups",
-            "ar": "قابل · مجموعات الآباء"
+            "ar": "قابل · مجموعات الآباء",
+            "de": "Hebammen- und Partnergruppen",
+            "ru": "Группы для акушерок и партнёров"
           },
           "bolum": {
             "tr": "Eşler",
             "en": "Partners",
-            "ar": "الشركاء"
+            "ar": "الشركاء",
+            "de": "Paare",
+            "ru": "Пары"
           },
           "metin": {
             "tr": "Destek kişileri için akşam oturumu (kurgusal profil).",
             "en": "Evening session for support persons (fictional profile).",
-            "ar": "جلسة مسائية لأشخاص الدعم (ملف افتراضي)."
+            "ar": "جلسة مسائية لأشخاص الدعم (ملف افتراضي).",
+            "de": "Abendsitzung für Bezugspersonen (fiktives Profil).",
+            "ru": "Вечерняя встреча для тех, кто поддерживает близких (вымышленный профиль)."
           }
         }
       ],
@@ -2186,24 +2670,32 @@
         "ust": {
           "tr": "Sorular",
           "en": "Questions",
-          "ar": "الأسئلة"
+          "ar": "الأسئلة",
+          "de": "FAQ",
+          "ru": "FAQ"
         },
         "baslik": {
           "tr": "Yol boyunca sorulanlar",
           "en": "Questions along the way",
-          "ar": "أسئلة على طول الطريق"
+          "ar": "أسئلة على طول الطريق",
+          "de": "Fragen unterwegs",
+          "ru": "Вополы по пути"
         },
         "metin": {
           "tr": "İçerik genel bilgilendirme amaçlıdır; hekim ve ebe muayenesinin yerine geçmez. Acil durumda 112’yi arayın.",
           "en": "Content is for general information only and does not replace an examination by a doctor or midwife. In an emergency call 112.",
-          "ar": "المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112."
+          "ar": "المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112.",
+          "de": "Inhalte dienen nur der allgemeinen Information und ersetzen keine Untersuchung durch Arzt oder Hebamme. Im Notfall rufen Sie 112 an.",
+          "ru": "Содержание носит исключительно информационный характер и не заменяет осмотр врачом или акушеркой. В экстренных случаях звоните 112."
         },
         "tekAcik": "",
         "ilkAcik": "",
         "cta_ad": {
           "tr": "Ebeye sorun",
           "en": "Ask a midwife",
-          "ar": "اسألي القابلة"
+          "ar": "اسألي القابلة",
+          "de": "Fragen Sie die Hebamme",
+          "ru": "Спросите акушерку"
         },
         "cta_url": "iletisim",
         "bg": "var(--mx-site-surface, #f6f7f9)",
@@ -2221,17 +2713,23 @@
         "badge": {
           "tr": "Sorular",
           "en": "Questions",
-          "ar": "الأسئلة"
+          "ar": "الأسئلة",
+          "de": "FAQ",
+          "ru": "FAQ"
         },
         "title": {
           "tr": "Yol boyunca sorulanlar",
           "en": "Questions along the way",
-          "ar": "أسئلة على طول الطريق"
+          "ar": "أسئلة على طول الطريق",
+          "de": "Fragen unterwegs",
+          "ru": "Вополы по пути"
         },
         "description": {
           "tr": "İçerik genel bilgilendirme amaçlıdır; hekim ve ebe muayenesinin yerine geçmez. Acil durumda 112’yi arayın.",
           "en": "Content is for general information only and does not replace an examination by a doctor or midwife. In an emergency call 112.",
-          "ar": "المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112."
+          "ar": "المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112.",
+          "de": "Inhalte dienen nur der allgemeinen Information und ersetzen keine Untersuchung durch Arzt oder Hebamme. Im Notfall rufen Sie 112 an.",
+          "ru": "Содержание носит исключительно информационный характер и не заменяет осмотр врачом или акушеркой. В экстренных случаях звоните 112."
         }
       },
       "data": [
@@ -2239,108 +2737,144 @@
           "kategori": {
             "tr": "Başlarken",
             "en": "Getting started",
-            "ar": "البداية"
+            "ar": "البداية",
+            "de": "Erste Schritte",
+            "ru": "Начало работы"
           },
           "ikon": "flag",
           "soru": {
             "tr": "Gebe okuluna kaçıncı haftada başlamalıyım?",
             "en": "In which week should I start the school?",
-            "ar": "في أي أسبوع أبدأ المدرسة؟"
+            "ar": "في أي أسبوع أبدأ المدرسة؟",
+            "de": "In welcher Woche sollte ich mit der Schule beginnen?",
+            "ru": "На какой неделе мне следует начать посещать школу?"
           },
           "cevap": {
             "tr": "Gruplar çoğunlukla 20. haftadan sonra başlar; uygun zamanı hekiminizle konuşun.",
             "en": "Groups usually start after week 20; discuss the right time with your doctor.",
-            "ar": "تبدأ المجموعات عادةً بعد الأسبوع العشرين؛ ناقشي التوقيت المناسب مع طبيبك."
+            "ar": "تبدأ المجموعات عادةً بعد الأسبوع العشرين؛ ناقشي التوقيت المناسب مع طبيبك.",
+            "de": "Die Gruppen beginnen meist nach der 20. Woche; sprechen Sie den passenden Zeitpunkt mit Ihrem Arzt ab.",
+            "ru": "Группы в основном начинаются после 20-й недели; обсудите подходящее время с врачом."
           }
         },
         {
           "kategori": {
             "tr": "Başlarken",
             "en": "Getting started",
-            "ar": "البداية"
+            "ar": "البداية",
+            "de": "Erste Schritte",
+            "ru": "Начало работы"
           },
           "ikon": "videocam",
           "soru": {
             "tr": "Ön görüşme nasıl yapılıyor?",
             "en": "How does the first talk work?",
-            "ar": "كيف يتم اللقاء الأول؟"
+            "ar": "كيف يتم اللقاء الأول؟",
+            "de": "Wie läuft das Vorgespräch ab?",
+            "ru": "Как проходит предварительная беседа?"
           },
           "cevap": {
             "tr": "Yüz yüze, görüntülü ya da telefonla 30 dakika; beklentilerinizi ve uygun grubu konuşuruz.",
             "en": "In person, by video or by phone for 30 minutes; we talk about your expectations and the right group.",
-            "ar": "حضوريًا أو بالفيديو أو بالهاتف لمدة 30 دقيقة؛ نتحدث عن توقعاتك والمجموعة المناسبة."
+            "ar": "حضوريًا أو بالفيديو أو بالهاتف لمدة 30 دقيقة؛ نتحدث عن توقعاتك والمجموعة المناسبة.",
+            "de": "Persönlich, per Video oder Telefon, 30 Minuten; wir besprechen Ihre Erwartungen und die passende Gruppe.",
+            "ru": "Лично, по видеосвязи или по телефону, 30 минут; обсудим ваши ожидания и подходящую группу."
           }
         },
         {
           "kategori": {
             "tr": "Kurs",
             "en": "Classes",
-            "ar": "الدورات"
+            "ar": "الدورات",
+            "de": "Kurs",
+            "ru": "Курс"
           },
           "ikon": "family_restroom",
           "soru": {
             "tr": "Eşim de katılabilir mi?",
             "en": "Can my partner join?",
-            "ar": "هل يمكن لشريكي الحضور؟"
+            "ar": "هل يمكن لشريكي الحضور؟",
+            "de": "Kann mein Partner auch teilnehmen?",
+            "ru": "Может ли присоединиться мой супруг (супруга)?"
           },
           "cevap": {
             "tr": "Evet; destek kişisi her oturuma katılabilir, ek kayıt gerekmez.",
             "en": "Yes; a support person can join every session without a separate registration.",
-            "ar": "نعم؛ يمكن لشخص الدعم حضور كل جلسة دون تسجيل منفصل."
+            "ar": "نعم؛ يمكن لشخص الدعم حضور كل جلسة دون تسجيل منفصل.",
+            "de": "Ja; die Begleitperson kann an jeder Sitzung teilnehmen, eine zusätzliche Anmeldung ist nicht nötig.",
+            "ru": "Да; сопровождающее лицо может присутствовать на каждом занятии, дополнительная запись не нужна."
           }
         },
         {
           "kategori": {
             "tr": "Kurs",
             "en": "Classes",
-            "ar": "الدورات"
+            "ar": "الدورات",
+            "de": "Kurs",
+            "ru": "Курс"
           },
           "ikon": "event_busy",
           "soru": {
             "tr": "Bir oturumu kaçırırsam?",
             "en": "What if I miss a session?",
-            "ar": "ماذا لو فاتتني جلسة؟"
+            "ar": "ماذا لو فاتتني جلسة؟",
+            "de": "Was, wenn ich eine Sitzung verpasse?",
+            "ru": "Что, если я пропущу сеанс?"
           },
           "cevap": {
             "tr": "Yazılı özet gönderilir; bir sonraki gruba telafi için katılabilirsiniz.",
             "en": "You receive a written summary and can catch up with the next group.",
-            "ar": "يُرسل إليك ملخص مكتوب ويمكنك التعويض مع المجموعة التالية."
+            "ar": "يُرسل إليك ملخص مكتوب ويمكنك التعويض مع المجموعة التالية.",
+            "de": "Eine schriftliche Zusammenfassung wird gesendet; zum Nachholen können Sie an der nächsten Gruppe teilnehmen.",
+            "ru": "Вам отправят письменное резюме; для отработки можно присоединиться к следующей группе."
           }
         },
         {
           "kategori": {
             "tr": "Sağlık",
             "en": "Health",
-            "ar": "الصحة"
+            "ar": "الصحة",
+            "de": "Gesundheit",
+            "ru": "Здоровье"
           },
           "ikon": "medical_information",
           "soru": {
             "tr": "Okul gebelik takibinin yerine geçer mi?",
             "en": "Does the school replace pregnancy check-ups?",
-            "ar": "هل تغني المدرسة عن متابعة الحمل؟"
+            "ar": "هل تغني المدرسة عن متابعة الحمل؟",
+            "de": "Ersetzt die Schule die Schwangerschaftsvorsorge?",
+            "ru": "Заменяет ли школа наблюдение за беременностью?"
           },
           "cevap": {
             "tr": "Hayır. Okul bilgilendirme yapar; muayene, tetkik ve kararlar hekiminizle sürer.",
             "en": "No. The school provides information; examinations, tests and decisions stay with your doctor.",
-            "ar": "لا. المدرسة تقدّم المعلومات؛ والفحوص والتحاليل والقرارات تبقى مع طبيبك."
+            "ar": "لا. المدرسة تقدّم المعلومات؛ والفحوص والتحاليل والقرارات تبقى مع طبيبك.",
+            "de": "Nein. Die Schule informiert; Untersuchungen, Tests und Entscheidungen liegen bei Ihrem Arzt.",
+            "ru": "Нет. Школа предоставляет информацию; осмотры, анализы и решения остаются на стороне вашего врача."
           }
         },
         {
           "kategori": {
             "tr": "Sağlık",
             "en": "Health",
-            "ar": "الصحة"
+            "ar": "الصحة",
+            "de": "Gesundheit",
+            "ru": "Здоровье"
           },
           "ikon": "emergency",
           "soru": {
             "tr": "Oturum sırasında kendimi iyi hissetmezsem?",
             "en": "What if I feel unwell during a session?",
-            "ar": "ماذا لو شعرت بتوعك أثناء الجلسة؟"
+            "ar": "ماذا لو شعرت بتوعك أثناء الجلسة؟",
+            "de": "Was ist, wenn ich mich während einer Sitzung unwohl fühle?",
+            "ru": "Что делать, если мне станет плохо во время сеанса?"
           },
           "cevap": {
             "tr": "Oturuma ara verilir; ebe sizinle ilgilenir ve gerekirse 112 aranır. Acil bir belirtide okulu beklemeden 112’yi arayın.",
             "en": "The session pauses; a midwife looks after you and calls 112 if needed. With an urgent symptom call 112 without waiting for the school.",
-            "ar": "تتوقف الجلسة وتهتم بك القابلة وتتصل بالرقم 112 عند الحاجة. عند ظهور عرض طارئ اتصلي بالرقم 112 دون انتظار المدرسة."
+            "ar": "تتوقف الجلسة وتهتم بك القابلة وتتصل بالرقم 112 عند الحاجة. عند ظهور عرض طارئ اتصلي بالرقم 112 دون انتظار المدرسة.",
+            "de": "Die Sitzung wird unterbrochen; die Hebamme kümmert sich um Sie und bei Bedarf wird die 112 gerufen. Bei einem Notfallsymptom rufen Sie die 112 an, ohne die Schule abzuwarten.",
+            "ru": "Занятие прерывается; акушерка займётся вами, при необходимости вызывается 112. При тревожном симптоме звоните 112, не дожидаясь школы."
           }
         }
       ],
@@ -2384,22 +2918,30 @@
         "ust": {
           "tr": "İletişim",
           "en": "Contact",
-          "ar": "تواصل"
+          "ar": "تواصل",
+          "de": "Kontakt",
+          "ru": "Контакты"
         },
         "baslik": {
           "tr": "Sorunuzu yazın, ebe dönsün",
           "en": "Write your question, a midwife replies",
-          "ar": "اكتبي سؤالك وسترد القابلة"
+          "ar": "اكتبي سؤالك وسترد القابلة",
+          "de": "Schreiben Sie Ihre Frage, eine Hebamme antwortet",
+          "ru": "Напишите свой вопрос, акушерка ответит"
         },
         "metin": {
           "tr": "Kurs, ön görüşme ya da bülten için yazın; bir iş günü içinde döneriz. Bu formda sağlık geçmişi istenmez. İçerik genel bilgilendirme amaçlıdır; hekim ve ebe muayenesinin yerine geçmez. Acil durumda 112’yi arayın. Form demodur; e-posta istemciniz açılır, veri saklanmaz.",
           "en": "Write about classes, a first talk or the newsletter; we reply within one business day. No health history is asked in this form. Content is for general information only and does not replace an examination by a doctor or midwife. In an emergency call 112. The form is a demo; your e-mail client opens and no data is stored.",
-          "ar": "اكتبي بشأن الدورات أو اللقاء الأول أو النشرة؛ نرد خلال يوم عمل واحد. لا يُطلب التاريخ الصحي في هذا النموذج. المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112. النموذج تجريبي؛ يُفتح برنامج البريد لديك ولا تُحفظ أي بيانات."
+          "ar": "اكتبي بشأن الدورات أو اللقاء الأول أو النشرة؛ نرد خلال يوم عمل واحد. لا يُطلب التاريخ الصحي في هذا النموذج. المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112. النموذج تجريبي؛ يُفتح برنامج البريد لديك ولا تُحفظ أي بيانات.",
+          "de": "Schreiben Sie uns für Kurse, ein Vorgespräch oder den Newsletter; wir melden uns innerhalb eines Werktags. In diesem Formular wird keine Krankengeschichte verlangt. Die Inhalte dienen der allgemeinen Information und ersetzen keine Untersuchung durch Arzt und Hebamme. Rufen Sie im Notfall die 112 an. Das Formular ist eine Demo; Ihr E-Mail-Programm öffnet sich, es werden keine Daten gespeichert.",
+          "ru": "Пишите нам по поводу курсов, предварительной беседы или рассылки; мы ответим в течение одного рабочего дня. В этой форме не запрашивается история болезни. Материалы носят общий информационный характер и не заменяют осмотр врача и акушерки. В экстренном случае звоните 112. Форма — демо; откроется ваш почтовый клиент, данные не сохраняются."
         },
         "adres": {
           "tr": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Tepebaşı, Eskişehir (kurgusal adres)",
           "en": "88 Ismet Inonu Street, Floor 2, Hosnudiye, Tepebasi, Eskisehir (fictional address)",
-          "ar": "شارع عصمت إينونو رقم 88، الطابق 2، حي خوشنودية، تبه باشي، إسكي شهير (عنوان افتراضي)"
+          "ar": "شارع عصمت إينونو رقم 88، الطابق 2، حي خوشنودية، تبه باشي، إسكي شهير (عنوان افتراضي)",
+          "de": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Tepebaşı, Eskişehir (fiktive Adresse)",
+          "ru": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Тепебаши, Эскишехир (вымышленный адрес)"
         },
         "telefon": "+90 222 031 44 20",
         "eposta": "merhaba@kumsalgebe.example",
@@ -2407,14 +2949,18 @@
         "saat": {
           "tr": "Pzt–Cmt 09:00 – 18:00 · Salı ve Perşembe akşam grubu 18:30 – 20:00",
           "en": "Mon–Sat 09:00 – 18:00 · Tue and Thu evening group 18:30 – 20:00",
-          "ar": "الاثنين–السبت 09:00 – 18:00 · مجموعة مسائية الثلاثاء والخميس 18:30 – 20:00"
+          "ar": "الاثنين–السبت 09:00 – 18:00 · مجموعة مسائية الثلاثاء والخميس 18:30 – 20:00",
+          "de": "Mo–Sa 09:00 – 18:00 · Dienstag und Donnerstag Abendgruppe 18:30 – 20:00",
+          "ru": "Пн–Сб 09:00 – 18:00 · Вторник и четверг вечерняя группа 18:30 – 20:00"
         },
         "haritaUrl": "",
         "haritaGomme": "",
         "waMesaj": {
           "tr": "Merhaba Kumsal, bir sorum var.",
           "en": "Hello Kumsal, I have a question.",
-          "ar": "مرحبًا كومسال، لدي سؤال."
+          "ar": "مرحبًا كومسال، لدي سؤال.",
+          "de": "Hallo Kumsal, ich habe eine Frage.",
+          "ru": "Здравствуйте, Кумсал, у меня есть вопрос."
         },
         "bg": "var(--mx-site-surface, #f6f7f9)",
         "text": "var(--mx-site-text, #111318)",
@@ -2432,40 +2978,54 @@
         "address": {
           "tr": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Tepebaşı, Eskişehir (kurgusal adres)",
           "en": "88 Ismet Inonu Street, Floor 2, Hosnudiye, Tepebasi, Eskisehir (fictional address)",
-          "ar": "شارع عصمت إينونو رقم 88، الطابق 2، حي خوشنودية، تبه باشي، إسكي شهير (عنوان افتراضي)"
+          "ar": "شارع عصمت إينونو رقم 88، الطابق 2، حي خوشنودية، تبه باشي، إسكي شهير (عنوان افتراضي)",
+          "de": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Tepebaşı, Eskişehir (fiktive Adresse)",
+          "ru": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Тепебаши, Эскишехир (вымышленный адрес)"
         },
         "phone": "+90 222 031 44 20",
         "email": "merhaba@kumsalgebe.example",
         "hours": {
           "tr": "Pzt–Cmt 09:00 – 18:00 · Salı ve Perşembe akşam grubu 18:30 – 20:00",
           "en": "Mon–Sat 09:00 – 18:00 · Tue and Thu evening group 18:30 – 20:00",
-          "ar": "الاثنين–السبت 09:00 – 18:00 · مجموعة مسائية الثلاثاء والخميس 18:30 – 20:00"
+          "ar": "الاثنين–السبت 09:00 – 18:00 · مجموعة مسائية الثلاثاء والخميس 18:30 – 20:00",
+          "de": "Mo–Sa 09:00 – 18:00 · Dienstag und Donnerstag Abendgruppe 18:30 – 20:00",
+          "ru": "Пн–Сб 09:00 – 18:00 · Вторник и четверг вечерняя группа 18:30 – 20:00"
         },
         "social": [],
         "title": {
           "tr": "Sorunuzu yazın, ebe dönsün",
           "en": "Write your question, a midwife replies",
-          "ar": "اكتبي سؤالك وسترد القابلة"
+          "ar": "اكتبي سؤالك وسترد القابلة",
+          "de": "Schreiben Sie Ihre Frage, eine Hebamme antwortet",
+          "ru": "Напишите свой вопрос, акушерка ответит"
         },
         "description": {
           "tr": "İçerik genel bilgilendirme amaçlıdır; hekim ve ebe muayenesinin yerine geçmez. Acil durumda 112’yi arayın.",
           "en": "Content is for general information only and does not replace an examination by a doctor or midwife. In an emergency call 112.",
-          "ar": "المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112."
+          "ar": "المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112.",
+          "de": "Inhalte dienen nur der allgemeinen Information und ersetzen keine Untersuchung durch Arzt oder Hebamme. Im Notfall rufen Sie 112 an.",
+          "ru": "Содержание носит исключительно информационный характер и не заменяет осмотр врачом или акушеркой. В экстренных случаях звоните 112."
         },
         "panelTitle": {
           "tr": "Kumsal Gebe Okulu",
           "en": "Kumsal Gebe Okulu",
-          "ar": "Kumsal Gebe Okulu"
+          "ar": "Kumsal Gebe Okulu",
+          "de": "Kumsal Schwangerschule",
+          "ru": "Школа для беременных Kumsal"
         },
         "panelText": {
           "tr": "Görseller temsilidir; bu bir kurulum demosudur.",
           "en": "Images are representative; this is a setup demo.",
-          "ar": "الصور تمثيلية وهذا عرض تجريبي."
+          "ar": "الصور تمثيلية وهذا عرض تجريبي.",
+          "de": "Die Bilder sind symbolisch; dies ist eine Einrichtungs-Demo.",
+          "ru": "Изображения условные; это демонстрация установки."
         },
         "formTitle": {
           "tr": "Teklif formu",
           "en": "Quote form",
-          "ar": "نموذج الطلب"
+          "ar": "نموذج الطلب",
+          "de": "Angebotsformular",
+          "ru": "Форма запроса предложения"
         },
         "subjects": [
           {
@@ -2473,7 +3033,9 @@
             "name": {
               "tr": "Doğuma hazırlık grubu",
               "en": "Birth preparation group",
-              "ar": "مجموعة التحضير للولادة"
+              "ar": "مجموعة التحضير للولادة",
+              "de": "Geburtsvorbereitungsgruppe",
+              "ru": "Группа подготовки к родам"
             }
           },
           {
@@ -2481,7 +3043,9 @@
             "name": {
               "tr": "Ön görüşme",
               "en": "First talk",
-              "ar": "اللقاء الأول"
+              "ar": "اللقاء الأول",
+              "de": "Beratung",
+              "ru": "Консультация"
             }
           },
           {
@@ -2489,7 +3053,9 @@
             "name": {
               "tr": "Emzirme oturumu",
               "en": "Breastfeeding session",
-              "ar": "جلسة الرضاعة"
+              "ar": "جلسة الرضاعة",
+              "de": "Stillzeit",
+              "ru": "Сеанс кормления грудью"
             }
           },
           {
@@ -2497,25 +3063,33 @@
             "name": {
               "tr": "Bülten",
               "en": "Newsletter",
-              "ar": "النشرة"
+              "ar": "النشرة",
+              "de": "Newsletter",
+              "ru": "Рассылка"
             }
           }
         ],
         "kvkkText": {
           "tr": "Kişisel verilerimin bu talebin yanıtlanması amacıyla işlenmesine ilişkin aydınlatma metnini okudum.",
           "en": "I have read the privacy notice on how my personal data is processed to answer this request.",
-          "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب."
+          "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب.",
+          "de": "Ich habe die Datenschutzerklärung zur Verarbeitung meiner personenbezogenen Daten zur Beantwortung dieser Anfrage gelesen.",
+          "ru": "Я ознакомился(лась) с уведомлением о конфиденциальности об обработке моих персональных данных для ответа на этот запрос."
         },
         "kvkkLinkText": {
           "tr": "Aydınlatma metni",
           "en": "Privacy notice",
-          "ar": "إشعار الخصوصية"
+          "ar": "إشعار الخصوصية",
+          "de": "Datenschutzhinweis",
+          "ru": "Информация об обработке данных"
         },
         "kvkkHref": "kisiselveriler",
         "formBaslik": {
           "tr": "Mesaj formu",
           "en": "Message form",
-          "ar": "نموذج الرسالة"
+          "ar": "نموذج الرسالة",
+          "de": "Nachrichtenformular",
+          "ru": "Форма сообщения"
         }
       },
       "data": [
@@ -2524,12 +3098,16 @@
           "baslik": {
             "tr": "Akşam grubu",
             "en": "Evening group",
-            "ar": "المجموعة المسائية"
+            "ar": "المجموعة المسائية",
+            "de": "Abendgruppe",
+            "ru": "Вечерняя группа"
           },
           "deger": {
             "tr": "Salı ve Perşembe 18:30 – 20:00",
             "en": "Tue and Thu 18:30 – 20:00",
-            "ar": "الثلاثاء والخميس 18:30 – 20:00"
+            "ar": "الثلاثاء والخميس 18:30 – 20:00",
+            "de": "Di und Do 18:30 – 20:00",
+            "ru": "Вт и Чт 18:30 – 20:00"
           }
         }
       ],
@@ -2571,22 +3149,30 @@
         "ust": {
           "tr": "Kumsal bülteni",
           "en": "Kumsal newsletter",
-          "ar": "نشرة كومسال"
+          "ar": "نشرة كومسال",
+          "de": "Strandbrief",
+          "ru": "Рассылка «Пляж»"
         },
         "baslik": {
           "tr": "Haftanıza uygun kısa okuma",
           "en": "A short read for your week",
-          "ar": "قراءة قصيرة تناسب أسبوعك"
+          "ar": "قراءة قصيرة تناسب أسبوعك",
+          "de": "Kurze Lektüre für Ihre Woche",
+          "ru": "Короткое чтение на неделю"
         },
         "metin": {
           "tr": "Her pazartesi gebelik haftanıza uygun bir okuma notu, kurs duyuruları ve hazırlık listesi. Genel bilgilendirmedir; sorularınızı hekiminize de sorun. Bu demo formda e-posta istemciniz açılır, veri saklanmaz.",
           "en": "Every Monday, a reading note for your week of pregnancy, class announcements and a preparation list. It is general information; also ask your doctor your questions. In this demo form your e-mail client opens and no data is stored.",
-          "ar": "كل يوم اثنين ملاحظة قراءة تناسب أسبوع حملك وإعلانات الدورات وقائمة تحضير. هذه معلومات عامة؛ واطرحي أسئلتك على طبيبك أيضًا. في هذا النموذج التجريبي يُفتح برنامج البريد لديك ولا تُحفظ أي بيانات."
+          "ar": "كل يوم اثنين ملاحظة قراءة تناسب أسبوع حملك وإعلانات الدورات وقائمة تحضير. هذه معلومات عامة؛ واطرحي أسئلتك على طبيبك أيضًا. في هذا النموذج التجريبي يُفتح برنامج البريد لديك ولا تُحفظ أي بيانات.",
+          "de": "Jeden Montag eine Lesenotiz passend zu Ihrer Schwangerschaftswoche, Kursankündigungen und eine Vorbereitungsliste. Allgemeine Information; stellen Sie Ihre Fragen auch Ihrem Arzt. Bei diesem Demo-Formular öffnet sich Ihr E-Mail-Programm, es werden keine Daten gespeichert.",
+          "ru": "Каждый понедельник — заметка для чтения по вашей неделе беременности, анонсы курсов и список подготовки. Это общая информация; задавайте вопросы и своему врачу. В этой демо-форме открывается ваш почтовый клиент, данные не сохраняются."
         },
         "btn1Text": {
           "tr": "Abone ol",
           "en": "Subscribe",
-          "ar": "اشتركي"
+          "ar": "اشتركي",
+          "de": "Abonnieren",
+          "ru": "Подписаться"
         },
         "btn1Url": "teklif-al",
         "btn2Text": "",
@@ -2597,34 +3183,46 @@
         "not": {
           "tr": "İçerik genel bilgilendirme amaçlıdır; hekim ve ebe muayenesinin yerine geçmez. Acil durumda 112’yi arayın.",
           "en": "Content is for general information only and does not replace an examination by a doctor or midwife. In an emergency call 112.",
-          "ar": "المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112."
+          "ar": "المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112.",
+          "de": "Inhalte dienen nur der allgemeinen Information und ersetzen keine Untersuchung durch Arzt oder Hebamme. Im Notfall rufen Sie 112 an.",
+          "ru": "Содержание носит исключительно информационный характер и не заменяет осмотр врачом или акушеркой. В экстренных случаях звоните 112."
         },
         "number": "902220314420",
         "numberText": "+90 222 031 44 20",
         "waLabel": {
           "tr": "Mesaj gönder",
           "en": "Send a message",
-          "ar": "أرسل رسالة"
+          "ar": "أرسل رسالة",
+          "de": "Nachricht senden",
+          "ru": "Отправить сообщение"
         },
         "waTitle": {
           "tr": "WhatsApp ile yazın",
           "en": "Write on WhatsApp",
-          "ar": "راسلنا عبر واتساب"
+          "ar": "راسلنا عبر واتساب",
+          "de": "Schreiben Sie per WhatsApp",
+          "ru": "Напишите в WhatsApp"
         },
         "waMessage": {
           "tr": "Merhaba Kumsal, gebe okulu hakkında bilgi almak istiyorum.",
           "en": "Hello Kumsal, I would like information about the prenatal school.",
-          "ar": "مرحبًا كومسال، أودّ الحصول على معلومات عن مدرسة الحوامل."
+          "ar": "مرحبًا كومسال، أودّ الحصول على معلومات عن مدرسة الحوامل.",
+          "de": "Hallo Kumsal, ich möchte Informationen über die Schwangerschaftsschule erhalten.",
+          "ru": "Здравствуйте, Кунсал, я хотела бы получить информацию о школе для беременных."
         },
         "hours": {
           "tr": "Pzt–Cmt 09:00 – 18:00 · Salı ve Perşembe akşam grubu 18:30 – 20:00",
           "en": "Mon–Sat 09:00 – 18:00 · Tue and Thu evening group 18:30 – 20:00",
-          "ar": "الاثنين–السبت 09:00 – 18:00 · مجموعة مسائية الثلاثاء والخميس 18:30 – 20:00"
+          "ar": "الاثنين–السبت 09:00 – 18:00 · مجموعة مسائية الثلاثاء والخميس 18:30 – 20:00",
+          "de": "Mo–Sa 09:00 – 18:00 · Dienstag und Donnerstag Abendgruppe 18:30 – 20:00",
+          "ru": "Пн–Сб 09:00 – 18:00 · Вторник и четверг вечерняя группа 18:30 – 20:00"
         },
         "hoursLabel": {
           "tr": "Çalışma saatleri",
           "en": "Opening hours",
-          "ar": "ساعات العمل"
+          "ar": "ساعات العمل",
+          "de": "Öffnungszeiten",
+          "ru": "Часы работы"
         },
         "bg": "var(--mx-site-bg, #ffffff)",
         "yaziRenk": "var(--mx-site-text, #111318)",
@@ -2640,17 +3238,23 @@
         "konu": {
           "tr": "Bülten aboneliği",
           "en": "Newsletter subscription",
-          "ar": "الاشتراك في النشرة"
+          "ar": "الاشتراك في النشرة",
+          "de": "Newsletter-Abonnement",
+          "ru": "Подписка на рассылку"
         },
         "siklik": {
           "tr": "Her pazartesi · 4 dk okuma",
           "en": "Every Monday · 4 min read",
-          "ar": "كل يوم اثنين · قراءة 4 دقائق"
+          "ar": "كل يوم اثنين · قراءة 4 دقائق",
+          "de": "Jeden Montag · 4 Min. Lesezeit",
+          "ru": "Каждый понедельник · 4 мин чтения"
         },
         "icerikAd": {
           "tr": "Bu sayıda",
           "en": "In this issue",
-          "ar": "في هذا العدد"
+          "ar": "في هذا العدد",
+          "de": "In dieser Ausgabe",
+          "ru": "В этом номере"
         },
         "bgcolor": "var(--mx-site-bg, #ffffff)",
         "color": "var(--mx-site-text, #111318)",
@@ -2658,22 +3262,30 @@
         "title": {
           "tr": "Haftalık bülten",
           "en": "Weekly newsletter",
-          "ar": "النشرة الأسبوعية"
+          "ar": "النشرة الأسبوعية",
+          "de": "Wöchentliches Newsletter",
+          "ru": "Еженедельная рассылка"
         },
         "btn1Label": {
           "tr": "Abone ol",
           "en": "Subscribe",
-          "ar": "اشتركي"
+          "ar": "اشتركي",
+          "de": "Abonnieren",
+          "ru": "Подписаться"
         },
         "btn2Label": {
           "tr": "Randevu",
           "en": "Book",
-          "ar": "احجزي"
+          "ar": "احجزي",
+          "de": "Termin",
+          "ru": "Запись"
         },
         "description": {
           "tr": "Her pazartesi, haftanıza uygun kısa bir okuma notu.",
           "en": "Every Monday, a short reading note for your week.",
-          "ar": "كل يوم اثنين، ملاحظة قراءة قصيرة تناسب أسبوعك."
+          "ar": "كل يوم اثنين، ملاحظة قراءة قصيرة تناسب أسبوعك.",
+          "de": "Jeden Montag eine kurze Leseanmerkung für Ihre Woche.",
+          "ru": "Каждый понедельник — короткая заметка для чтения на неделю."
         }
       },
       "data": [
@@ -2682,12 +3294,16 @@
           "baslik": {
             "tr": "Bu haftanın nefes çalışması",
             "en": "This week’s breathing exercise",
-            "ar": "تمرين التنفس لهذا الأسبوع"
+            "ar": "تمرين التنفس لهذا الأسبوع",
+            "de": "Atemübung dieser Woche",
+            "ru": "Дыхательная практика этой недели"
           },
           "aciklama": {
             "tr": "Dört dakikalık sesli rehber",
             "en": "A four-minute audio guide",
-            "ar": "دليل صوتي من أربع دقائق"
+            "ar": "دليل صوتي من أربع دقائق",
+            "de": "Vierminütiger Audioguide",
+            "ru": "Четырёхминутный аудиогид"
           }
         },
         {
@@ -2695,12 +3311,16 @@
           "baslik": {
             "tr": "Doğum çantası listesi",
             "en": "Hospital bag checklist",
-            "ar": "قائمة حقيبة الولادة"
+            "ar": "قائمة حقيبة الولادة",
+            "de": "Checkliste für die Kliniktasche",
+            "ru": "Список для сумки в роддом"
           },
           "aciklama": {
             "tr": "Yazdırılabilir tek sayfa",
             "en": "A printable single page",
-            "ar": "صفحة واحدة قابلة للطباعة"
+            "ar": "صفحة واحدة قابلة للطباعة",
+            "de": "Druckbare Einzelseite",
+            "ru": "Версия на одну страницу для печати"
           }
         },
         {
@@ -2708,12 +3328,16 @@
           "baslik": {
             "tr": "Aralık grubu kayıtları",
             "en": "December group registration",
-            "ar": "التسجيل في مجموعة ديسمبر"
+            "ar": "التسجيل في مجموعة ديسمبر",
+            "de": "Dezember-Gruppenanmeldungen",
+            "ru": "Заявки групп на декабрь"
           },
           "aciklama": {
             "tr": "Kontenjan ve tarihler",
             "en": "Places and dates",
-            "ar": "المقاعد والمواعيد"
+            "ar": "المقاعد والمواعيد",
+            "de": "Plätze und Termine",
+            "ru": "Места и даты"
           }
         }
       ],
@@ -2758,19 +3382,25 @@
         "hakkinda": {
           "tr": "Eskişehir’de ebe liderliğinde kurgusal demo gebe okulu. İçerik genel bilgilendirme amaçlıdır; hekim ve ebe muayenesinin yerine geçmez. Acil durumda 112’yi arayın.",
           "en": "A fictional, midwife-led demo prenatal school in Eskisehir. Content is for general information only and does not replace an examination by a doctor or midwife. In an emergency call 112.",
-          "ar": "مدرسة حوامل تجريبية افتراضية بقيادة القابلات في إسكي شهير. المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112."
+          "ar": "مدرسة حوامل تجريبية افتراضية بقيادة القابلات في إسكي شهير. المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112.",
+          "de": "Fiktive, hebammengeführte Demo-Schwangerschaftsschule in Eskişehir. Inhalte dienen nur der allgemeinen Information und ersetzen keine ärztliche oder hebammenmäßige Untersuchung. Im Notfall rufen Sie 112 an.",
+          "ru": "Вымышленная демо-школа для беременных под руководством акушерки в Эскишехире. Контент носит общий информационный характер и не заменяет осмотр врачом или акушеркой. В экстренных случаях звоните 112."
         },
         "tel": "+90 222 031 44 20",
         "eposta": "merhaba@kumsalgebe.example",
         "adres": {
           "tr": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Tepebaşı, Eskişehir (kurgusal adres)",
           "en": "88 Ismet Inonu Street, Floor 2, Hosnudiye, Tepebasi, Eskisehir (fictional address)",
-          "ar": "شارع عصمت إينونو رقم 88، الطابق 2، حي خوشنودية، تبه باشي، إسكي شهير (عنوان افتراضي)"
+          "ar": "شارع عصمت إينونو رقم 88، الطابق 2، حي خوشنودية، تبه باشي، إسكي شهير (عنوان افتراضي)",
+          "de": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Tepebaşı, Eskişehir (fiktive Adresse)",
+          "ru": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Тепебаши, Эскишехир (вымышленный адрес)"
         },
         "cta_ad": {
           "tr": "Ön görüşme al",
           "en": "Book a first talk",
-          "ar": "احجزي لقاءً أول"
+          "ar": "احجزي لقاءً أول",
+          "de": "Vorgespräch vereinbaren",
+          "ru": "Записаться на предварительную беседу"
         },
         "cta_url": "teklif-al",
         "rightsText": "",
@@ -2794,12 +3424,16 @@
         "about": {
           "tr": "Kumsal Gebe Okulu demo temadır; içerik kurgusaldır. İçerik genel bilgilendirme amaçlıdır; hekim ve ebe muayenesinin yerine geçmez. Acil durumda 112’yi arayın.",
           "en": "Kumsal Prenatal School is a demo theme; content is fictional. Content is for general information only and does not replace an examination by a doctor or midwife. In an emergency call 112.",
-          "ar": "مدرسة كومسال للحوامل قالب تجريبي؛ المحتوى افتراضي. المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112."
+          "ar": "مدرسة كومسال للحوامل قالب تجريبي؛ المحتوى افتراضي. المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112.",
+          "de": "Die Kumsal-Schwangerenschule ist ein Demo-Thema; die Inhalte sind fiktiv. Die Inhalte dienen der allgemeinen Information und ersetzen keine Untersuchung durch Arzt und Hebamme. Rufen Sie im Notfall die 112 an.",
+          "ru": "Kumsal Gebe Okulu — демонстрационная тема; содержание вымышленное. Материалы носят общий информационный характер и не заменяют осмотр врача и акушерки. В экстренном случае звоните 112."
         },
         "address": {
           "tr": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Tepebaşı, Eskişehir (kurgusal adres)",
           "en": "88 Ismet Inonu Street, Floor 2, Hosnudiye, Tepebasi, Eskisehir (fictional address)",
-          "ar": "شارع عصمت إينونو رقم 88، الطابق 2، حي خوشنودية، تبه باشي، إسكي شهير (عنوان افتراضي)"
+          "ar": "شارع عصمت إينونو رقم 88، الطابق 2، حي خوشنودية، تبه باشي، إسكي شهير (عنوان افتراضي)",
+          "de": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Tepebaşı, Eskişehir (fiktive Adresse)",
+          "ru": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Тепебаши, Эскишехир (вымышленный адрес)"
         },
         "phone": "+90 222 031 44 20",
         "email": "merhaba@kumsalgebe.example",
@@ -2809,7 +3443,9 @@
             "name": {
               "tr": "KVKK",
               "en": "Privacy (KVKK)",
-              "ar": "حماية البيانات"
+              "ar": "حماية البيانات",
+              "de": "Datenschutz (KVKK)",
+              "ru": "Закон о защите данных (KVKK)"
             },
             "href": "kisiselveriler"
           },
@@ -2817,7 +3453,9 @@
             "name": {
               "tr": "Gizlilik",
               "en": "Privacy policy",
-              "ar": "سياسة الخصوصية"
+              "ar": "سياسة الخصوصية",
+              "de": "Datenschutz",
+              "ru": "Конфиденциальность"
             },
             "href": "gizlilikpolitikasi"
           },
@@ -2825,7 +3463,9 @@
             "name": {
               "tr": "Yasal uyarı",
               "en": "Legal notice",
-              "ar": "إشعار قانوني"
+              "ar": "إشعار قانوني",
+              "de": "Rechtlicher Hinweis",
+              "ru": "Правовое уведомление"
             },
             "href": "yasaluyari"
           }
@@ -2835,14 +3475,18 @@
         "nlKvkk": {
           "tr": "E-postanız yalnızca duyuru göndermek için kullanılır; dilediğiniz an listeden çıkabilirsiniz.",
           "en": "Your e-mail is used only to send announcements; you can leave the list at any time.",
-          "ar": "يُستخدم بريدك الإلكتروني لإرسال الإعلانات فقط، ويمكنك إلغاء الاشتراك في أي وقت."
+          "ar": "يُستخدم بريدك الإلكتروني لإرسال الإعلانات فقط، ويمكنك إلغاء الاشتراك في أي وقت.",
+          "de": "Ihre E-Mail-Adresse wird nur für den Versand von Ankündigungen verwendet; Sie können sich jederzeit abmelden.",
+          "ru": "Ваш e-mail используется только для рассылки объявлений; вы можете отписаться в любой момент."
         },
         "services": [
           {
             "name": {
               "tr": "Kurslar",
               "en": "Classes",
-              "ar": "الدورات"
+              "ar": "الدورات",
+              "de": "Kurse",
+              "ru": "Курсы"
             },
             "href": "hizmetler"
           },
@@ -2850,7 +3494,9 @@
             "name": {
               "tr": "Ebeler",
               "en": "Midwives",
-              "ar": "القابلات"
+              "ar": "القابلات",
+              "de": "Hebammen",
+              "ru": "Акушерки"
             },
             "href": "ekip"
           },
@@ -2858,7 +3504,9 @@
             "name": {
               "tr": "Randevu",
               "en": "Booking",
-              "ar": "الحجز"
+              "ar": "الحجز",
+              "de": "Termin",
+              "ru": "Запись"
             },
             "href": "teklif-al"
           }
@@ -2868,7 +3516,9 @@
             "days": {
               "tr": "Pzt–Cmt",
               "en": "Mon–Sat",
-              "ar": "الاثنين–السبت"
+              "ar": "الاثنين–السبت",
+              "de": "Mo–Sa",
+              "ru": "Пн–Сб"
             },
             "time": "09:00 – 18:00"
           },
@@ -2876,7 +3526,9 @@
             "days": {
               "tr": "Salı · Perşembe akşam",
               "en": "Tue · Thu evening",
-              "ar": "مساء الثلاثاء · الخميس"
+              "ar": "مساء الثلاثاء · الخميس",
+              "de": "Di · Do Abend",
+              "ru": "Вт · Чт вечер"
             },
             "time": "18:30 – 20:00"
           }
@@ -2884,12 +3536,16 @@
         "title_services": {
           "tr": "Hızlı bağlantılar",
           "en": "Quick links",
-          "ar": "روابط سريعة"
+          "ar": "روابط سريعة",
+          "de": "Schnellzugriff",
+          "ru": "Быстрые ссылки"
         },
         "title_hours": {
           "tr": "Saatler",
           "en": "Hours",
-          "ar": "الساعات"
+          "ar": "الساعات",
+          "de": "Öffnungszeiten",
+          "ru": "Часы работы"
         }
       },
       "data": [],
@@ -2938,17 +3594,23 @@
         "ust": {
           "tr": "Kurs takvimi",
           "en": "Class calendar",
-          "ar": "جدول الدورات"
+          "ar": "جدول الدورات",
+          "de": "Kurskalender",
+          "ru": "Календарь занятий"
         },
         "baslik": {
           "tr": "Haftalarınız ve okul, yan yana",
           "en": "Your weeks and the school, side by side",
-          "ar": "أسابيعك والمدرسة جنبًا إلى جنب"
+          "ar": "أسابيعك والمدرسة جنبًا إلى جنب",
+          "de": "Ihre Wochen und die Schule, nebeneinander",
+          "ru": "Ваши недели и школа, бок о бок"
         },
         "metin": {
           "tr": "Sol kulvar gebelik haftalarına dair genel bilgidir; sağ kulvar o haftalara denk gelen okul oturumlarıdır. Tarama ve kontrollerin zamanlamasını hekiminiz belirler.",
           "en": "The first lane is general information about the weeks of pregnancy; the second lane shows the school sessions for those weeks. Your doctor sets the timing of screening and check-ups.",
-          "ar": "المسار الأول معلومات عامة عن أسابيع الحمل؛ والمسار الثاني جلسات المدرسة في تلك الأسابيع. ويحدد طبيبك توقيت الفحوص والمتابعات."
+          "ar": "المسار الأول معلومات عامة عن أسابيع الحمل؛ والمسار الثاني جلسات المدرسة في تلك الأسابيع. ويحدد طبيبك توقيت الفحوص والمتابعات.",
+          "de": "Die linke Spur enthält allgemeine Informationen zu den Schwangerschaftswochen; die rechte Spur zeigt die Schulungstermine, die zu diesen Wochen passen. Zeitpunkt von Screening und Kontrollen bestimmt Ihr Arzt.",
+          "ru": "Левая полоса — общая информация о неделях беременности; правая — школьные занятия, приходящиеся на эти недели. Сроки скрининга и осмотров определяет ваш врач."
         },
         "bg": "var(--mx-site-bg, #ffffff)",
         "text": "var(--mx-site-text, #111318)",
@@ -2963,12 +3625,16 @@
         "kol1": {
           "tr": "Gebeliğinizde (genel bilgi)",
           "en": "In your pregnancy (general info)",
-          "ar": "في حملك (معلومات عامة)"
+          "ar": "في حملك (معلومات عامة)",
+          "de": "In Ihrer Schwangerschaft (allgemeine Infos)",
+          "ru": "Во время вашей беременности (общая информация)"
         },
         "kol2": {
           "tr": "Kumsal’da",
           "en": "At Kumsal",
-          "ar": "في كومسال"
+          "ar": "في كومسال",
+          "de": "In Kumsal",
+          "ru": "В Kumsal"
         },
         "bgcolor": "var(--mx-site-bg, #ffffff)",
         "color": "var(--mx-site-text, #111318)"
@@ -2978,152 +3644,200 @@
           "etiket": {
             "tr": "12. hafta",
             "en": "Week 12",
-            "ar": "الأسبوع 12"
+            "ar": "الأسبوع 12",
+            "de": "12. Woche",
+            "ru": "12-я неделя"
           },
           "kol": 1,
           "ikon": "stethoscope",
           "baslik": {
             "tr": "İlk dönem kontrolleri",
             "en": "First-trimester check-ups",
-            "ar": "فحوص الثلث الأول"
+            "ar": "فحوص الثلث الأول",
+            "de": "Kontrollen im ersten Semester",
+            "ru": "Осмотры в первом семестре"
           },
           "metin": {
             "tr": "Hekiminizin planladığı tarama ve kontroller.",
             "en": "The screening and check-ups your doctor plans.",
-            "ar": "الفحوص والمتابعات التي يخطط لها طبيبك."
+            "ar": "الفحوص والمتابعات التي يخطط لها طبيبك.",
+            "de": "Die von Ihrem Arzt geplanten Screenings und Kontrollen.",
+            "ru": "Скрининги и контрольные обследования, назначенные вашим врачом."
           }
         },
         {
           "etiket": {
             "tr": "12. hafta",
             "en": "Week 12",
-            "ar": "الأسبوع 12"
+            "ar": "الأسبوع 12",
+            "de": "12. Woche",
+            "ru": "12-я неделя"
           },
           "kol": 2,
           "ikon": "waving_hand",
           "baslik": {
             "tr": "Tanışma kahvesi",
             "en": "Welcome coffee",
-            "ar": "قهوة التعارف"
+            "ar": "قهوة التعارف",
+            "de": "Begrüßungskaffee",
+            "ru": "Кофе для знакомства"
           },
           "metin": {
             "tr": "Ayda bir cumartesi; okulu ve ebeleri tanıyın.",
             "en": "One Saturday a month; meet the school and the midwives.",
-            "ar": "يوم سبت واحد في الشهر؛ تعرّفي على المدرسة والقابلات."
+            "ar": "يوم سبت واحد في الشهر؛ تعرّفي على المدرسة والقابلات.",
+            "de": "Ein Samstag im Monat; lernen Sie die Schule und die Hebamme kennen.",
+            "ru": "Одна суббота в месяц; познакомьтесь со школой и акушерками."
           }
         },
         {
           "etiket": {
             "tr": "20. hafta",
             "en": "Week 20",
-            "ar": "الأسبوع 20"
+            "ar": "الأسبوع 20",
+            "de": "20. Woche",
+            "ru": "20-я неделя"
           },
           "kol": 1,
           "ikon": "monitor_heart",
           "baslik": {
             "tr": "Ayrıntılı ultrason dönemi",
             "en": "Detailed ultrasound period",
-            "ar": "فترة الموجات فوق الصوتية المفصّلة"
+            "ar": "فترة الموجات فوق الصوتية المفصّلة",
+            "de": "Phase des detaillierten Ultraschalls",
+            "ru": "Период детального УЗИ"
           },
           "metin": {
             "tr": "Zamanlamayı hekiminiz belirler.",
             "en": "Your doctor sets the timing.",
-            "ar": "يحدد طبيبك التوقيت."
+            "ar": "يحدد طبيبك التوقيت.",
+            "de": "Ihr Arzt bestimmt den Zeitpunkt.",
+            "ru": "Время определяет ваш врач."
           }
         },
         {
           "etiket": {
             "tr": "20. hafta",
             "en": "Week 20",
-            "ar": "الأسبوع 20"
+            "ar": "الأسبوع 20",
+            "de": "20. Woche",
+            "ru": "20-я неделя"
           },
           "kol": 2,
           "ikon": "videocam",
           "baslik": {
             "tr": "Ön görüşme",
             "en": "First talk",
-            "ar": "اللقاء الأول"
+            "ar": "اللقاء الأول",
+            "de": "Beratung",
+            "ru": "Консультация"
           },
           "metin": {
             "tr": "Yüz yüze ya da görüntülü, 30 dakika.",
             "en": "In person or by video, 30 minutes.",
-            "ar": "حضوريًا أو بالفيديو، 30 دقيقة."
+            "ar": "حضوريًا أو بالفيديو، 30 دقيقة.",
+            "de": "Persönlich oder per Video, 30 Minuten.",
+            "ru": "Лично или по видеосвязи, 30 минут."
           }
         },
         {
           "etiket": {
             "tr": "28. hafta",
             "en": "Week 28",
-            "ar": "الأسبوع 28"
+            "ar": "الأسبوع 28",
+            "de": "28. Woche",
+            "ru": "28-я неделя"
           },
           "kol": 2,
           "ikon": "school",
           "baslik": {
             "tr": "Doğuma hazırlık grubu başlar",
             "en": "Birth preparation group begins",
-            "ar": "تبدأ مجموعة التحضير للولادة"
+            "ar": "تبدأ مجموعة التحضير للولادة",
+            "de": "Die Geburtsvorbereitungsgruppe startet",
+            "ru": "Стартует группа подготовки к родам"
           },
           "metin": {
             "tr": "Dört hafta, sekiz akşam oturumu.",
             "en": "Four weeks, eight evening sessions.",
-            "ar": "أربعة أسابيع وثماني جلسات مسائية."
+            "ar": "أربعة أسابيع وثماني جلسات مسائية.",
+            "de": "Vier Wochen, acht Abendsitzungen.",
+            "ru": "Четыре недели, восемь вечерних занятий."
           }
         },
         {
           "etiket": {
             "tr": "32. hafta",
             "en": "Week 32",
-            "ar": "الأسبوع 32"
+            "ar": "الأسبوع 32",
+            "de": "32. Woche",
+            "ru": "32-я неделя"
           },
           "kol": 1,
           "ikon": "luggage",
           "baslik": {
             "tr": "Doğum planı ve çanta",
             "en": "Birth plan and bag",
-            "ar": "خطة الولادة والحقيبة"
+            "ar": "خطة الولادة والحقيبة",
+            "de": "Geburtsplan und Kliniktasche",
+            "ru": "План родов и сумка в роддом"
           },
           "metin": {
             "tr": "Hastanenizin listesine göre hazırlık.",
             "en": "Preparation based on your hospital’s list.",
-            "ar": "التحضير حسب قائمة المستشفى."
+            "ar": "التحضير حسب قائمة المستشفى.",
+            "de": "Vorbereitung nach der Liste Ihres Krankenhauses.",
+            "ru": "Подготовка по списку вашей больницы."
           }
         },
         {
           "etiket": {
             "tr": "32. hafta",
             "en": "Week 32",
-            "ar": "الأسبوع 32"
+            "ar": "الأسبوع 32",
+            "de": "32. Woche",
+            "ru": "32-я неделя"
           },
           "kol": 2,
           "ikon": "child_friendly",
           "baslik": {
             "tr": "Emzirme oturumu",
             "en": "Breastfeeding session",
-            "ar": "جلسة الرضاعة"
+            "ar": "جلسة الرضاعة",
+            "de": "Stillzeit",
+            "ru": "Сеанс кормления грудью"
           },
           "metin": {
             "tr": "Tutuş, pozisyon ve ilk günler.",
             "en": "Latch, positions and the first days.",
-            "ar": "الإمساك بالثدي والأوضاع والأيام الأولى."
+            "ar": "الإمساك بالثدي والأوضاع والأيام الأولى.",
+            "de": "Verriegelung, Positionen und die ersten Tage.",
+            "ru": "Замок, положения и первые дни."
           }
         },
         {
           "etiket": {
             "tr": "Doğum sonrası",
             "en": "After birth",
-            "ar": "بعد الولادة"
+            "ar": "بعد الولادة",
+            "de": "Nach der Geburt",
+            "ru": "После родов"
           },
           "kol": 2,
           "ikon": "baby_changing_station",
           "baslik": {
             "tr": "Bebekle buluşma",
             "en": "Baby meet-up",
-            "ar": "لقاء مع الرضيع"
+            "ar": "لقاء مع الرضيع",
+            "de": "Treffen mit dem Baby",
+            "ru": "Встреча с малышом"
           },
           "metin": {
             "tr": "İlk ayda bebek bakımı ve soru saati.",
             "en": "Baby care and a question hour in the first month.",
-            "ar": "رعاية الرضيع وساعة أسئلة في الشهر الأول."
+            "ar": "رعاية الرضيع وساعة أسئلة في الشهر الأول.",
+            "de": "Babybetreuung und Sprechstunde im ersten Monat.",
+            "ru": "Уход за младенцем и час вопросов в первый месяц."
           }
         }
       ],
@@ -3168,17 +3882,23 @@
         "ust": {
           "tr": "Ön görüşme",
           "en": "First talk",
-          "ar": "اللقاء الأول"
+          "ar": "اللقاء الأول",
+          "de": "Beratung",
+          "ru": "Консультация"
         },
         "baslik": {
           "tr": "Ebeyle 30 dakika: siz seçin, nasıl görüşelim",
           "en": "30 minutes with a midwife: you choose how we meet",
-          "ar": "30 دقيقة مع القابلة: اختاري طريقة اللقاء"
+          "ar": "30 دقيقة مع القابلة: اختاري طريقة اللقاء",
+          "de": "30 Minuten mit einer Hebamme: Sie wählen, wie wir uns treffen",
+          "ru": "30 минут с акушеркой: вы выбираете, как мы встретимся"
         },
         "metin": {
           "tr": "Görüşme türünü ve biçimini seçin, gün ve saat belirleyin; talep WhatsApp’ta hazır açılır, ebe arayıp onaylar. Sağlık geçmişi istenmez. İçerik genel bilgilendirme amaçlıdır; hekim ve ebe muayenesinin yerine geçmez. Acil durumda 112’yi arayın. Bu form demodur; veri saklanmaz.",
           "en": "Choose the type and format of the talk, then a day and time; the request opens ready in WhatsApp and a midwife calls to confirm. No health history is asked. Content is for general information only and does not replace an examination by a doctor or midwife. In an emergency call 112. This form is a demo; no data is stored.",
-          "ar": "اختاري نوع اللقاء وطريقته ثم اليوم والوقت؛ يُفتح الطلب جاهزًا في واتساب وتتصل القابلة للتأكيد. لا يُطلب التاريخ الصحي. المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112. هذا النموذج تجريبي؛ لا تُحفظ أي بيانات."
+          "ar": "اختاري نوع اللقاء وطريقته ثم اليوم والوقت؛ يُفتح الطلب جاهزًا في واتساب وتتصل القابلة للتأكيد. لا يُطلب التاريخ الصحي. المحتوى للمعلومات العامة فقط ولا يغني عن فحص الطبيب أو القابلة. في حالات الطوارئ اتصلي بالرقم 112. هذا النموذج تجريبي؛ لا تُحفظ أي بيانات.",
+          "de": "Wählen Sie Art und Form des Gesprächs sowie Tag und Uhrzeit; die Anfrage öffnet sich fertig in WhatsApp, die Hebamme ruft zur Bestätigung zurück. Es wird keine Krankengeschichte abgefragt. Die Inhalte dienen der allgemeinen Information und ersetzen keine ärztliche oder hebammenseitige Untersuchung. Im Notfall rufen Sie die 112 an. Dieses Formular ist eine Demo; es werden keine Daten gespeichert.",
+          "ru": "Выберите вид и формат встречи, день и время; заявка откроется в WhatsApp уже готовой, акушерка позвонит и подтвердит. История болезни не запрашивается. Содержание носит общий информационный характер и не заменяет осмотр врача и акушерки. В экстренном случае звоните по номеру 112. Эта форма — демонстрационная; данные не сохраняются."
         },
         "bg": "var(--mx-site-bg, #ffffff)",
         "text": "var(--mx-site-text, #111318)",
@@ -3196,13 +3916,17 @@
             "ad": {
               "tr": "Yüz yüze",
               "en": "In person",
-              "ar": "حضوري"
+              "ar": "حضوري",
+              "de": "Persönlich",
+              "ru": "Лично"
             },
             "ikon": "chair",
             "not": {
               "tr": "Tepebaşı’ndaki okulda; asansör ve bebek arabası girişi var.",
               "en": "At the school in Tepebasi; lift and pram access.",
-              "ar": "في المدرسة في تبه باشي؛ يوجد مصعد ومدخل لعربة الأطفال."
+              "ar": "في المدرسة في تبه باشي؛ يوجد مصعد ومدخل لعربة الأطفال.",
+              "de": "In der Schule in Tepebaşı; Aufzug und Zugang für Kinderwagen vorhanden.",
+              "ru": "В школе в Тепебаши; есть лифт и доступ для колясок."
             }
           },
           {
@@ -3210,13 +3934,17 @@
             "ad": {
               "tr": "Görüntülü",
               "en": "Video",
-              "ar": "فيديو"
+              "ar": "فيديو",
+              "de": "Video",
+              "ru": "Видео"
             },
             "ikon": "videocam",
             "not": {
               "tr": "Bağlantı onay mesajıyla gönderilir; kamera kapalı da olabilir.",
               "en": "The link is sent with the confirmation; your camera can stay off.",
-              "ar": "يُرسل الرابط مع رسالة التأكيد؛ ويمكن إبقاء الكاميرا مغلقة."
+              "ar": "يُرسل الرابط مع رسالة التأكيد؛ ويمكن إبقاء الكاميرا مغلقة.",
+              "de": "Der Link wird mit der Bestätigung gesendet; die Kamera kann auch ausgeschaltet bleiben.",
+              "ru": "Ссылка отправляется вместе с подтверждением; камера может оставаться выключенной."
             }
           },
           {
@@ -3224,26 +3952,34 @@
             "ad": {
               "tr": "Telefon",
               "en": "Phone",
-              "ar": "هاتف"
+              "ar": "هاتف",
+              "de": "Telefon",
+              "ru": "Телефон"
             },
             "ikon": "call",
             "not": {
               "tr": "Seçtiğiniz saatte ebe sizi arar.",
               "en": "A midwife calls you at the time you choose.",
-              "ar": "تتصل بك القابلة في الوقت الذي تختارينه."
+              "ar": "تتصل بك القابلة في الوقت الذي تختارينه.",
+              "de": "Eine Hebamme ruft Sie zur von Ihnen gewählten Zeit an.",
+              "ru": "Акушерка позвонит вам в выбранное вами время."
             }
           }
         ],
         "bicimAd": {
           "tr": "Görüşme biçimi",
           "en": "Meeting format",
-          "ar": "طريقة اللقاء"
+          "ar": "طريقة اللقاء",
+          "de": "Gesprächsform",
+          "ru": "Формат встречи"
         },
         "saatDilimi": "Europe/Istanbul",
         "yerelAd": {
           "tr": "Sizin saatinizle",
           "en": "In your time zone",
-          "ar": "بتوقيتك"
+          "ar": "بتوقيتك",
+          "de": "Nach Ihrer Zeit",
+          "ru": "В удобное для вас время"
         },
         "bgcolor": "var(--mx-site-bg, #ffffff)",
         "color": "var(--mx-site-text, #111318)",
@@ -3253,7 +3989,9 @@
         "konum": {
           "tr": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Tepebaşı, Eskişehir (kurgusal adres)",
           "en": "88 Ismet Inonu Street, Floor 2, Hosnudiye, Tepebasi, Eskisehir (fictional address)",
-          "ar": "شارع عصمت إينونو رقم 88، الطابق 2، حي خوشنودية، تبه باشي، إسكي شهير (عنوان افتراضي)"
+          "ar": "شارع عصمت إينونو رقم 88، الطابق 2، حي خوشنودية، تبه باشي، إسكي شهير (عنوان افتراضي)",
+          "de": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Tepebaşı, Eskişehir (fiktive Adresse)",
+          "ru": "Hoşnudiye Mahallesi, İsmet İnönü Caddesi No: 88 Kat: 2, Тепебаши, Эскишехир (вымышленный адрес)"
         },
         "submit": "whatsapp",
         "leadDays": 1,
@@ -3288,7 +4026,9 @@
             "role": {
               "tr": "Ebe · grup sorumlusu",
               "en": "Midwife · group lead",
-              "ar": "قابلة · مسؤولة المجموعات"
+              "ar": "قابلة · مسؤولة المجموعات",
+              "de": "Hebamme · Gruppenleitung",
+              "ru": "Акушерка · руководитель группы"
             }
           },
           {
@@ -3297,43 +4037,57 @@
             "role": {
               "tr": "Ebe · emzirme danışmanı",
               "en": "Midwife · breastfeeding adviser",
-              "ar": "قابلة · مستشارة رضاعة"
+              "ar": "قابلة · مستشارة رضاعة",
+              "de": "Hebamme · Stillberaterin",
+              "ru": "Акушерка · консультант по грудному вскармливанию"
             }
           }
         ],
         "uzmanAd": {
           "tr": "Ebe",
           "en": "Midwife",
-          "ar": "القابلة"
+          "ar": "القابلة",
+          "de": "Hebamme",
+          "ru": "Акушерка"
         },
         "farkAd": {
           "tr": "Fark etmez",
           "en": "Either",
-          "ar": "أيّ منهما"
+          "ar": "أيّ منهما",
+          "de": "Egal",
+          "ru": "Неважно"
         },
         "kvkkText": {
           "tr": "Kişisel verilerimin yalnız bu görüşme talebinin yanıtlanması için işlenmesine ilişkin aydınlatma metnini okudum.",
           "en": "I have read the privacy notice on processing my personal data only to answer this request.",
-          "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب فقط."
+          "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب فقط.",
+          "de": "Ich habe den Hinweistext gelesen, wonach meine personenbezogenen Daten ausschließlich zur Beantwortung dieser Gesprächsanfrage verarbeitet werden.",
+          "ru": "Я ознакомился(-лась) с уведомлением о том, что мои персональные данные обрабатываются только для ответа на этот запрос о встрече."
         },
         "kvkkHref": "kisiselveriler",
         "kvkk": {
           "text": {
             "tr": "Kişisel verilerimin yalnız bu görüşme talebinin yanıtlanması için işlenmesine ilişkin aydınlatma metnini okudum.",
             "en": "I have read the privacy notice on processing my personal data only to answer this request.",
-            "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب فقط."
+            "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب فقط.",
+            "de": "Ich habe den Hinweistext gelesen, wonach meine personenbezogenen Daten ausschließlich zur Beantwortung dieser Gesprächsanfrage verarbeitet werden.",
+            "ru": "Я ознакомился(-лась) с уведомлением о том, что мои персональные данные обрабатываются только для ответа на этот запрос о встрече."
           },
           "href": "kisiselveriler"
         },
         "successText": {
           "tr": "Talebiniz hazırlandı. Görüşme, ebenin onay aramasından sonra takvime işlenir. (Demo)",
           "en": "Your request is ready. The talk is added to the calendar after the midwife calls to confirm. (Demo)",
-          "ar": "طلبك جاهز. يُضاف اللقاء إلى الجدول بعد اتصال القابلة للتأكيد. (تجريبي)"
+          "ar": "طلبك جاهز. يُضاف اللقاء إلى الجدول بعد اتصال القابلة للتأكيد. (تجريبي)",
+          "de": "Ihre Anfrage ist bereit. Das Gespräch wird nach dem Bestätigungsanruf der Hebamme in den Kalender eingetragen. (Demo)",
+          "ru": "Ваш запрос готов. Встреча будет добавлена в календарь после подтверждающего звонка акушерки. (Демо)"
         },
         "konu": {
           "tr": "Ön görüşme talebi",
           "en": "First talk request",
-          "ar": "طلب لقاء أول"
+          "ar": "طلب لقاء أول",
+          "de": "Anfrage für ein Vorgespräch",
+          "ru": "Заявка на предварительную беседу"
         }
       },
       "data": [
@@ -3341,42 +4095,54 @@
           "ad": {
             "tr": "Tanışma ve grup seçimi",
             "en": "Introduction and group choice",
-            "ar": "تعارف واختيار المجموعة"
+            "ar": "تعارف واختيار المجموعة",
+            "de": "Kennenlernen und Gruppenwahl",
+            "ru": "Знакомство и выбор группы"
           },
           "sure": 30,
           "ikon": "waving_hand",
           "metin": {
             "tr": "Hangi grup size uygun, birlikte bakalım.",
             "en": "Let’s see which group suits you.",
-            "ar": "لنرَ معًا أي مجموعة تناسبك."
+            "ar": "لنرَ معًا أي مجموعة تناسبك.",
+            "de": "Schauen wir gemeinsam, welche Gruppe zu Ihnen passt.",
+            "ru": "Давайте вместе посмотрим, какая группа вам подходит."
           }
         },
         {
           "ad": {
             "tr": "Doğum planı sohbeti",
             "en": "Birth plan chat",
-            "ar": "حديث عن خطة الولادة"
+            "ar": "حديث عن خطة الولادة",
+            "de": "Gespräch zum Geburtsplan",
+            "ru": "Беседа о плане родов"
           },
           "sure": 45,
           "ikon": "edit_note",
           "metin": {
             "tr": "Hastanenizin seçenekleri üzerine genel bilgi.",
             "en": "General information on your hospital’s options.",
-            "ar": "معلومات عامة عن خيارات المستشفى."
+            "ar": "معلومات عامة عن خيارات المستشفى.",
+            "de": "Allgemeine Informationen zu den Optionen Ihres Krankenhauses.",
+            "ru": "Общая информация о вариантах вашего госпиталя."
           }
         },
         {
           "ad": {
             "tr": "Emzirme ön görüşmesi",
             "en": "Breastfeeding pre-talk",
-            "ar": "لقاء تمهيدي للرضاعة"
+            "ar": "لقاء تمهيدي للرضاعة",
+            "de": "Stillvorbereitungsgespräch",
+            "ru": "Предварительная консультация по грудному вскармливанию"
           },
           "sure": 30,
           "ikon": "child_friendly",
           "metin": {
             "tr": "İlk günler için hazırlık soruları.",
             "en": "Preparation questions for the first days.",
-            "ar": "أسئلة تحضيرية للأيام الأولى."
+            "ar": "أسئلة تحضيرية للأيام الأولى.",
+            "de": "Vorbereitende Fragen für die ersten Tage.",
+            "ru": "Вопросы для подготовки к первым дням."
           }
         }
       ],

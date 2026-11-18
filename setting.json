@@ -4,12 +4,16 @@
   "description": {
     "tr": "Kumsal Gebe Okulu: Eskişehir’de ebe liderliğinde doğuma hazırlık grupları, emzirme ve bebek bakımı oturumları; yüz yüze ya da görüntülü ön görüşme. Demo site; içerik kurgusaldır.",
     "en": "Kumsal Prenatal School: midwife-led birth preparation groups, breastfeeding and baby care sessions in Eskisehir; first consultation in person or by video. Demo site; content is fictional.",
-    "ar": "مدرسة كومسال للحوامل: مجموعات تحضير للولادة بقيادة القابلات وجلسات للرضاعة ورعاية الرضيع في إسكي شهير؛ لقاء أول حضوري أو بالفيديو. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "مدرسة كومسال للحوامل: مجموعات تحضير للولادة بقيادة القابلات وجلسات للرضاعة ورعاية الرضيع في إسكي شهير؛ لقاء أول حضوري أو بالفيديو. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Kumsal Gebe Okulu: Geburtsvorbereitungsgruppen unter Leitung einer Hebamme in Eskişehir, Sitzungen zu Stillen und Babypflege; Vorgespräch persönlich oder per Video. Demo-Website; der Inhalt ist fiktiv.",
+    "ru": "Kumsal Gebe Okulu: группы подготовки к родам под руководством акушерки в Эскишехире, занятия по грудному вскармливанию и уходу за ребёнком; предварительная беседа лично или по видео. Демонстрационный сайт; содержимое вымышленное."
   },
   "keyword": {
     "tr": "gebe okulu, doğuma hazırlık, ebe, emzirme danışmanlığı, bebek bakımı, Eskişehir",
     "en": "prenatal school, birth preparation, midwife, breastfeeding support, baby care, Eskisehir",
-    "ar": "مدرسة الحوامل، التحضير للولادة، قابلة، دعم الرضاعة، رعاية الرضيع، إسكي شهير"
+    "ar": "مدرسة الحوامل، التحضير للولادة، قابلة، دعم الرضاعة، رعاية الرضيع، إسكي شهير",
+    "de": "Schwangerschaftsschule, Geburtsvorbereitung, Hebamme, Stillberatung, Babypflege, Eskişehir",
+    "ru": "школа для беременных, подготовка к родам, акушерка, консультация по грудному вскармливанию, уход за младенцем, Эскишехир"
   },
   "category": "Kurumsal",
   "name": "Kumsal Gebe Okulu",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

@@ -3,17 +3,23 @@
   "name": {
     "tr": "Ebeler",
     "en": "Midwives",
-    "ar": "القابلات"
+    "ar": "القابلات",
+    "de": "Hebammen",
+    "ru": "Акушерки"
   },
   "description": {
     "tr": "Kurgusal ebe ve eğitmen kadrosu.",
     "en": "Fictional midwives and teaching team.",
-    "ar": "فريق افتراضي من القابلات والمدرّبين."
+    "ar": "فريق افتراضي من القابلات والمدرّبين.",
+    "de": "Fiktives Team aus Hebamme und Dozenten.",
+    "ru": "Вымышленная команда акушерки и преподавателей."
   },
   "keyword": {
     "tr": "ekip, kadro",
     "en": "team, staff",
-    "ar": "فريق، طاقم"
+    "ar": "فريق، طاقم",
+    "de": "Team, Personal",
+    "ru": "команда, персонал"
   },
   "path": "ekip",
   "icon": "groups",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Ebeler",
     "en": "Midwives",
-    "ar": "القابلات"
+    "ar": "القابلات",
+    "de": "Hebammen",
+    "ru": "Акушерки"
   },
   "date": "2026-11-16T18:02:49.730Z",
   "update": "2026-11-16T18:09:14.860Z"

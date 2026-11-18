@@ -3,17 +3,23 @@
   "name": {
     "tr": "Randevu",
     "en": "Booking",
-    "ar": "الحجز"
+    "ar": "الحجز",
+    "de": "Termin",
+    "ru": "Запись"
   },
   "description": {
     "tr": "Yüz yüze, görüntülü ya da telefonla ön görüşme talebi (demo).",
     "en": "First talk request in person, by video or by phone (demo).",
-    "ar": "طلب لقاء أول حضوريًا أو بالفيديو أو بالهاتف (تجريبي)."
+    "ar": "طلب لقاء أول حضوريًا أو بالفيديو أو بالهاتف (تجريبي).",
+    "de": "Anfrage für ein Vorgespräch persönlich, per Video oder Telefon (Demo).",
+    "ru": "Запрос на предварительную встречу лично, по видеосвязи или по телефону (демо)."
   },
   "keyword": {
     "tr": "randevu",
     "en": "appointment",
-    "ar": "موعد"
+    "ar": "موعد",
+    "de": "Termin",
+    "ru": "запись"
   },
   "path": "teklif-al",
   "icon": "event",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "Randevu",
     "en": "Booking",
-    "ar": "الحجز"
+    "ar": "الحجز",
+    "de": "Termin",
+    "ru": "Запись"
   },
   "date": "2026-11-16T18:02:49.745Z",
   "update": "2026-11-16T18:09:14.868Z"

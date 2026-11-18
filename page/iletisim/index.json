@@ -2,7 +2,9 @@
   "name": {
     "tr": "İletişim",
     "en": "Contact",
-    "ar": "تواصل"
+    "ar": "تواصل",
+    "de": "Kontakt",
+    "ru": "Контакты"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Adres, saatler ve gizlilik odaklı mesaj formu.",
     "en": "Address, hours and a privacy-focused message form.",
-    "ar": "العنوان والساعات ونموذج رسالة يركّز على الخصوصية."
+    "ar": "العنوان والساعات ونموذج رسالة يركّز على الخصوصية.",
+    "de": "Adresse, Öffnungszeiten und ein datenschutzorientiertes Nachrichtenformular.",
+    "ru": "Адрес, часы работы и форма сообщения с акцентом на конфиденциальность."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "İletişim",
     "en": "Contact",
-    "ar": "تواصل"
+    "ar": "تواصل",
+    "de": "Kontakt",
+    "ru": "Контакты"
   },
   "keyword": {
     "tr": "iletişim",
     "en": "contact",
-    "ar": "اتصال"
+    "ar": "اتصال",
+    "de": "Kontakt",
+    "ru": "контакты"
   },
   "text": {},
   "update": "2026-11-16T18:09:14.872Z",
