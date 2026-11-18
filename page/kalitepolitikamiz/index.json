@@ -3,17 +3,23 @@
   "name": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "description": {
     "tr": "Kalite politikamız",
     "en": "Our quality policy",
-    "ar": "سياسة الجودة لدينا"
+    "ar": "سياسة الجودة لدينا",
+    "de": "Unsere Qualitätspolitik",
+    "ru": "Наша политика качества"
   },
   "keyword": {
     "tr": "Kalite Politikamız",
     "en": "quality policy, quality, continuous improvement",
-    "ar": "سياسة الجودة, الجودة, التحسين المستمر"
+    "ar": "سياسة الجودة, الجودة, التحسين المستمر",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "path": "kalitepolitikamiz",
   "icon": "verified",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Kalite Politikamız</h2>\n<p>Küçük gruplar, yazılı oturum notları ve hekiminizle uyumlu bilgilendirme.</p>",
     "en": "<h2>Our quality policy</h2>\n<p>Small groups, written session notes and information in line with your doctor’s care.</p>",
-    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>مجموعات صغيرة وملاحظات جلسات مكتوبة ومعلومات تنسجم مع رعاية طبيبك.</p>"
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>مجموعات صغيرة وملاحظات جلسات مكتوبة ومعلومات تنسجم مع رعاية طبيبك.</p>",
+    "de": "<h2>Unsere Qualitätspolitik</h2>\n<p>Kleine Gruppen, schriftliche Sitzungsnotizen und mit Ihrem Arzt abgestimmte Information.</p>",
+    "ru": "<h2>Наша политика качества</h2>\n<p>Небольшие группы, письменные заметки по сеансам и информирование, согласованное с вашим врачом.</p>"
   },
   "title": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "date": "2026-11-16T18:02:49.554Z",
   "update": "2026-11-16T18:09:14.886Z",

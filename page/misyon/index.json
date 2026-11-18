@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Gebelere ve ailelerine doğuma ve ilk haftalara sakin, bilgiye dayalı bir hazırlık sunmak.</p>",
     "en": "<h2>Our mission</h2>\n<p>To offer expectant parents a calm, information-based preparation for birth and the first weeks.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>أن نقدّم للحوامل وعائلاتهن تحضيرًا هادئًا قائمًا على المعلومات للولادة والأسابيع الأولى.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>أن نقدّم للحوامل وعائلاتهن تحضيرًا هادئًا قائمًا على المعلومات للولادة والأسابيع الأولى.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Schwangeren und ihren Familien eine ruhige, wissensbasierte Vorbereitung auf die Geburt und die ersten Wochen zu bieten.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Предложить беременным и их семьям спокойную, основанную на знаниях подготовку к родам и первым неделям.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T18:02:49.554Z",
   "update": "2026-11-16T18:09:14.882Z",

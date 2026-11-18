@@ -3,17 +3,23 @@
   "name": {
     "tr": "Kurslar",
     "en": "Classes",
-    "ar": "الدورات"
+    "ar": "الدورات",
+    "de": "Kurse",
+    "ru": "Курсы"
   },
   "description": {
     "tr": "Haftalara hizalı kurs takvimi ve ilkelerimiz.",
     "en": "Class calendar aligned to the weeks, and our principles.",
-    "ar": "جدول الدورات حسب الأسابيع ومبادئنا."
+    "ar": "جدول الدورات حسب الأسابيع ومبادئنا.",
+    "de": "Kurskalender nach Wochen und unsere Grundsätze.",
+    "ru": "Календарь курса по неделям и наши принципы."
   },
   "keyword": {
     "tr": "Kurslar",
     "en": "Classes",
-    "ar": "الدورات"
+    "ar": "الدورات",
+    "de": "Kurse",
+    "ru": "Курсы"
   },
   "path": "hizmetler",
   "icon": "work",
@@ -34,7 +40,9 @@
   "title": {
     "tr": "Kurslar",
     "en": "Classes",
-    "ar": "الدورات"
+    "ar": "الدورات",
+    "de": "Kurse",
+    "ru": "Курсы"
   },
   "date": "2026-11-16T18:02:49.717Z",
   "update": "2026-11-16T18:09:14.848Z"
